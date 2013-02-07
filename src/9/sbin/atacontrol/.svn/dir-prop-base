@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 241
+/head/sbin/atacontrol:2-3,226179,227006,235873
+/projects/largeSMP/sbin/atacontrol:221273-222812,222815-223757
+/projects/quota64/sbin/atacontrol:184125-207707
+/user/piso/sbin/atacontrol:186725
+/vendor/resolver/dist/sbin/atacontrol:1540-186085
+END

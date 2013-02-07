@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 349
+/head/tools/regression/security/cap_test:225778,227006,227538,227636,228177,228259,228409,229000-229001,230211-230212,231057,232312
+/projects/largeSMP/tools/regression/security/cap_test:221273-222812,222815-223757
+/projects/quota64/tools/regression/security/cap_test:184125-207707
+/vendor/resolver/dist/tools/regression/security/cap_test:1540-186085
+END

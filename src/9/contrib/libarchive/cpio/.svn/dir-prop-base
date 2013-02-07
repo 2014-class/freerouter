@@ -1,0 +1,10 @@
+K 13
+svn:mergeinfo
+V 360
+/head/contrib/libarchive/cpio:226702,227006,228761-228764,228770-228777,228835,228911,229067
+/head/usr.bin/cpio:204111,211054,212263
+/projects/largeSMP/contrib/libarchive/cpio:221273-222812,222815-223757
+/projects/quota64/contrib/libarchive/cpio:184125-207707
+/vendor/libarchive/dist/cpio:228761-228908
+/vendor/resolver/dist/contrib/libarchive/cpio:1540-186085
+END

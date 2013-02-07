@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 260
+/head/share/mk/bsd.arch.inc.mk:203399-207112,207114-209022,227006,230972
+/projects/largeSMP/share/mk/bsd.arch.inc.mk:221273-222812,222815-223757
+/projects/quota64/share/mk/bsd.arch.inc.mk:184125-207707
+/vendor/resolver/dist/share/mk/bsd.arch.inc.mk:1540-186085
+END

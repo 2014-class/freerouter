@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 247
+/head/sbin/hastctl:2-3,225785,227006,228712,229778,229945,235873
+/projects/largeSMP/sbin/hastctl:221273-222812,222815-223757
+/projects/quota64/sbin/hastctl:184125-207707
+/user/piso/sbin/hastctl:186725
+/vendor/resolver/dist/sbin/hastctl:1540-186085
+END

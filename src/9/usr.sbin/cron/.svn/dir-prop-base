@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 216
+/head/usr.sbin/cron:226702,227006,227981,228761,229067,232202
+/projects/largeSMP/usr.sbin/cron:221273-222812,222815-223757
+/projects/quota64/usr.sbin/cron:184125-207707
+/vendor/resolver/dist/usr.sbin/cron:1540-186085
+END

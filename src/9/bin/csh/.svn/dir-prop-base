@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 227
+/head/bin/csh:226702,226785,227006,228761,229067,229997,230127,230587,231990,235297,235316
+/projects/largeSMP/bin/csh:221273-222812,222815-223757
+/projects/quota64/bin/csh:184125-207707
+/vendor/resolver/dist/bin/csh:1540-186085
+END

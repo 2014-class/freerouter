@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 223
+/head/contrib/gperf:226702,227006,228060,228068,228604,228761,229067
+/projects/largeSMP/contrib/gperf:221273-222812,222815-223757
+/projects/quota64/contrib/gperf:184125-207707
+/vendor/resolver/dist/contrib/gperf:1540-186085
+END

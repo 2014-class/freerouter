@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 279
+/head/usr.sbin/wpa/wpa_supplicant:230293,234756-234757,234759,234786,235337,242696
+/projects/largeSMP/usr.sbin/wpa/wpa_supplicant:221273-222812,222815-223757
+/projects/quota64/usr.sbin/wpa/wpa_supplicant:184125-207707
+/vendor/resolver/dist/usr.sbin/wpa/wpa_supplicant:1540-186085
+END

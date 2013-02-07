@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 199
+/head/sbin/mca:2-3,227006,236355
+/projects/largeSMP/sbin/mca:221273-222812,222815-223757
+/projects/quota64/sbin/mca:184125-207707
+/user/piso/sbin/mca:186725
+/vendor/resolver/dist/sbin/mca:1540-186085
+END

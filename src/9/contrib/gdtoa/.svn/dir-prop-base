@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 215
+/head/contrib/gdtoa:227006,227753,227807,227818,227999,228002,228875,230156
+/projects/largeSMP/contrib/gdtoa:221273-222812,222815-223757
+/projects/quota64/contrib/gdtoa:184125-207707
+/vendor/gdtoa/dist:112159-219423
+END

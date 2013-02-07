@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 265
+/head/usr.sbin/gssd:226702,226785,227006,228761,229067,230127,231118,244331,244604-244605,244638,245014,245051
+/projects/largeSMP/usr.sbin/gssd:221273-222812,222815-223757
+/projects/quota64/usr.sbin/gssd:184125-207707
+/vendor/resolver/dist/usr.sbin/gssd:1540-186085
+END

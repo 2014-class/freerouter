@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 213
+/head/libexec/bootpd:226702,227006,228581,228584,229067
+/projects/largeSMP/libexec/bootpd:221273-222812,222815-223757
+/projects/quota64/libexec/bootpd:184125-207707
+/vendor/resolver/dist/libexec/bootpd:1540-186085
+END

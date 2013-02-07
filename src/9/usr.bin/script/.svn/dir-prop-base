@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 213
+/head/usr.bin/script:225809,225857,226403,227006,228857
+/projects/largeSMP/usr.bin/script:221273-222812,222815-223757
+/projects/quota64/usr.bin/script:184125-207707
+/vendor/resolver/dist/usr.bin/script:1540-186085
+END

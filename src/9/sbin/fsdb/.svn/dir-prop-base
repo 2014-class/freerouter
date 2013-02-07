@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 232
+/head/sbin/fsdb:2-3,227006,228603,228693,231102,232263,232749
+/projects/largeSMP/sbin/fsdb:221273-222812,222815-223757
+/projects/quota64/sbin/fsdb:184125-207707
+/user/piso/sbin/fsdb:186725
+/vendor/resolver/dist/sbin/fsdb:1540-186085
+END

@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 236
+/head/contrib/file:2-68349,227006,228553,234449,239348
+/projects/largeSMP/contrib/file:221273-222812,222815-223757
+/projects/quota64/contrib/file:184125-207707
+/vendor/file/dist:1591-234250
+/vendor/resolver/dist/contrib/file:1540-186085
+END

@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 357
+/head/usr.sbin/nfscbd:226702,226785,227006,227524,227526,228761,229067,229997,230127,230587,233713,234313,234315,234322,234351,234870,235726,240891,243238
+/projects/head_mfi/usr.sbin/nfscbd:233621
+/projects/largeSMP/usr.sbin/nfscbd:221273-222812,222815-223757
+/projects/quota64/usr.sbin/nfscbd:184125-207707
+/vendor/resolver/dist/usr.sbin/nfscbd:1540-186085
+END

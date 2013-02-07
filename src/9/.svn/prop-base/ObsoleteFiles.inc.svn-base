@@ -1,0 +1,12 @@
+K 12
+svn:keywords
+V 10
+FreeBSD=%H
+K 13
+svn:mergeinfo
+V 323
+/head/ObsoleteFiles.inc:226702,226785,227006,227214,228761,229067,229997,230127,230587,232051,232671,233010,234697,237005-237006,237011,238562,239462,244855
+/projects/largeSMP/ObsoleteFiles.inc:221273-222812,222815-223757
+/projects/quota64/ObsoleteFiles.inc:184125-207707
+/vendor/resolver/dist/ObsoleteFiles.inc:1540-186085
+END

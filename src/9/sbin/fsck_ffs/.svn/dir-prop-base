@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 287
+/head/sbin/fsck_ffs:2-3,227006,228751,229904-229905,229907-229919,236976,238984,240463,242924,243017
+/projects/largeSMP/sbin/fsck_ffs:221273-222812,222815-223757
+/projects/quota64/sbin/fsck_ffs:184125-207707
+/user/piso/sbin/fsck_ffs:186725
+/vendor/resolver/dist/sbin/fsck_ffs:1540-186085
+END

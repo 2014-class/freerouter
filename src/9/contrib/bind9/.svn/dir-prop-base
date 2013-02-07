@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 187
+/head/contrib/bind9:227006,240729,241414,243981
+/projects/largeSMP/contrib/bind9:221273-222812,222815-223757
+/projects/quota64/contrib/bind9:184125-207707
+/vendor/bind9/dist:135447-243890
+END

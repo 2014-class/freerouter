@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 242
+/head/usr.sbin/freebsd-update:226650,227006,233648,235873
+/projects/largeSMP/usr.sbin/freebsd-update:221273-222812,222815-223757
+/projects/quota64/usr.sbin/freebsd-update:184125-207707
+/vendor/resolver/dist/usr.sbin/freebsd-update:1540-186085
+END

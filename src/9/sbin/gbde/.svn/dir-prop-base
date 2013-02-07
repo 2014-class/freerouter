@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 204
+/head/sbin/gbde:2-3,227006,228610
+/projects/largeSMP/sbin/gbde:221273-222812,222815-223757
+/projects/quota64/sbin/gbde:184125-207707
+/user/piso/sbin/gbde:186725
+/vendor/resolver/dist/sbin/gbde:1540-186085
+END

@@ -1,0 +1,126 @@
+10
+
+dir
+246451
+svn://svn.freebsd.org/base/stable/9/usr.sbin/bsnmpd/modules
+svn://svn.freebsd.org/base
+
+
+
+2013-01-29T13:49:08.281423Z
+246069
+pfg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
+
+snmp_usm
+dir
+
+snmp_pf
+dir
+
+snmp_target
+dir
+
+snmp_vacm
+dir
+
+snmp_hostres
+dir
+
+snmp_netgraph
+dir
+
+Makefile.inc
+file
+
+
+
+
+2013-02-07T05:44:35.626980Z
+528efe657ea9ba5bc430a15172060146
+2010-03-02T18:44:08.008608Z
+204596
+uqs
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+184
+
+snmp_mibII
+dir
+
+snmp_bridge
+dir
+
+Makefile
+file
+
+
+
+
+2013-02-07T05:44:35.628056Z
+1f4ae34b8561c13d2a623f620e9edc8c
+2010-12-20T17:13:14.812027Z
+216594
+syrinx
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+399
+
+snmp_atm
+dir
+
+snmp_wlan
+dir
+

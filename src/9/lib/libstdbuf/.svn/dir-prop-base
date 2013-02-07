@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 265
+/head/lib/libstdbuf:226702,226785,227006,227755,228531,228630,228761,229067,230127,234715-234716,234772-234773
+/projects/largeSMP/lib/libstdbuf:221273-222812,222815-223757
+/projects/quota64/lib/libstdbuf:184125-207707
+/vendor/resolver/dist/lib/libstdbuf:1540-186085
+END

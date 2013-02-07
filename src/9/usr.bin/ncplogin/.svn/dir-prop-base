@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 298
+/head/usr.bin/ncplogin:226702,227006,228761,228857,229067,229538,229997,230127,230555,232322,232994,233121,234206,234772,234782,235211
+/projects/largeSMP/usr.bin/ncplogin:221273-222812,222815-223757
+/projects/quota64/usr.bin/ncplogin:184125-207707
+/vendor/resolver/dist/usr.bin/ncplogin:1540-186085
+END

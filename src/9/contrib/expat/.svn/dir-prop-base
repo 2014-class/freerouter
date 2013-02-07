@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 230
+/head/contrib/expat:2-104349,227006,245952
+/projects/largeSMP/contrib/expat:221273-222812,222815-223757
+/projects/quota64/contrib/expat:184125-207707
+/vendor/expat/dist:104350-200391
+/vendor/resolver/dist/contrib/expat:1540-186085
+END

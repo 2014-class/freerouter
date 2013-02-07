@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 263
+/head/contrib/one-true-awk:2-85587,225736-246372
+/projects/largeSMP/contrib/one-true-awk:221273-222812,222815-223757
+/projects/quota64/contrib/one-true-awk:184125-207707
+/vendor/one-true-awk/dist:85588-244980
+/vendor/resolver/dist/contrib/one-true-awk:1540-186085
+END

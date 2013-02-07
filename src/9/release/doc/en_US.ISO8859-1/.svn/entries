@@ -1,0 +1,80 @@
+10
+
+dir
+246451
+svn://svn.freebsd.org/base/stable/9/release/doc/en_US.ISO8859-1
+svn://svn.freebsd.org/base
+
+
+
+2012-12-30T17:54:25.743646Z
+244869
+hrs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
+
+installation
+dir
+
+share
+dir
+
+relnotes
+dir
+
+hardware
+dir
+
+readme
+dir
+
+Makefile
+file
+
+
+
+
+2013-02-07T05:45:19.319966Z
+b0a2459c29321abe206e370a835f0049
+2012-01-11T20:04:52.245707Z
+229979
+hrs
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+250
+
+errata
+dir
+

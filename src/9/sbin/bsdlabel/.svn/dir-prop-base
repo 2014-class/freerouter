@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 259
+/head/sbin/bsdlabel:2-3,227006,227231,227248,227262,227270,227296,234122
+/projects/largeSMP/sbin/bsdlabel:221273-222812,222815-223757
+/projects/quota64/sbin/bsdlabel:184125-207707
+/user/piso/sbin/bsdlabel:186725
+/vendor/resolver/dist/sbin/bsdlabel:1540-186085
+END

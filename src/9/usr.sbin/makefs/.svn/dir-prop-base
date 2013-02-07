@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 210
+/head/usr.sbin/makefs:226169,226482,227006,230795
+/projects/largeSMP/usr.sbin/makefs:221273-222812,222815-223757
+/projects/quota64/usr.sbin/makefs:184125-207707
+/vendor/resolver/dist/usr.sbin/makefs:1540-186085
+END

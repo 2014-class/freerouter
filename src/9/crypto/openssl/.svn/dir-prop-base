@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 226
+/head/crypto/openssl:227006,237657-237658,240339,244974-244975,245952
+/projects/largeSMP/crypto/openssl:221273-222812,222815-223757
+/projects/quota64/crypto/openssl:184125-207707
+/vendor-crypto/openssl/dist:55100-237654,244973
+END

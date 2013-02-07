@@ -1,0 +1,132 @@
+10
+
+dir
+246451
+svn://svn.freebsd.org/base/stable/9/sbin/ipf
+svn://svn.freebsd.org/base
+
+
+
+2012-09-30T15:33:53.297086Z
+241072
+issyl0
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
+
+ipfs
+dir
+
+ipmon
+dir
+
+ippool
+dir
+
+ipsend
+dir
+
+libipf
+dir
+
+Makefile.inc
+file
+
+
+
+
+2013-02-07T05:43:48.571109Z
+4c3e47dfadbcb4e9245376b6db3c71ce
+2012-01-01T17:37:17.116046Z
+229176
+dim
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+610
+
+iptest
+dir
+
+ipresend
+dir
+
+ipfstat
+dir
+
+rules
+dir
+
+ipnat
+dir
+
+Makefile
+file
+
+
+
+
+2013-02-07T05:43:48.572109Z
+8ba1013119acc9623b0df3e2543b174e
+2005-04-25T18:55:52.000000Z
+145524
+darrenr
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+154
+
+ipf
+dir
+
+ipftest
+dir
+

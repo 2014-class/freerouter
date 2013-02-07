@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 264
+/projects/head_mfi/contrib/libc-vis:233621
+/projects/largeSMP/contrib/libc-vis:221273-222812,222815-223757
+/projects/multi-fibv6/head/contrib/libc-vis:230929-231848
+/projects/quota64/contrib/libc-vis:184125-207707
+/vendor/resolver/dist/contrib/libc-vis:1540-186085
+END

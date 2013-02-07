@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 295
+/head/contrib/libarchive:226702,227006,228761-228764,228770-228777,228835,228911,229067
+/projects/largeSMP/contrib/libarchive:221273-222812,222815-223757
+/projects/quota64/contrib/libarchive:184125-207707
+/vendor/libarchive/dist:228761-228908
+/vendor/resolver/dist/contrib/libarchive:1540-186085
+END

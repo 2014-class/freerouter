@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 258
+/head/usr.sbin/timed/timed:226702,227006,228714,228719-228720,229067,233648,240388
+/projects/largeSMP/usr.sbin/timed/timed:221273-222812,222815-223757
+/projects/quota64/usr.sbin/timed/timed:184125-207707
+/vendor/resolver/dist/usr.sbin/timed/timed:1540-186085
+END

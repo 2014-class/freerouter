@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 234
+/head/sbin/quotacheck:2-3,227006,233648
+/projects/largeSMP/sbin/quotacheck:221273-222812,222815-223757
+/projects/quota64/sbin/quotacheck:184125-207707
+/user/piso/sbin/quotacheck:186725
+/vendor/resolver/dist/sbin/quotacheck:1540-186085
+END

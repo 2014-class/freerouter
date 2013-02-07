@@ -1,0 +1,40 @@
+10
+
+dir
+246451
+svn://svn.freebsd.org/base/stable/9/contrib/telnet
+svn://svn.freebsd.org/base
+
+
+
+2012-01-01T21:06:07.382603Z
+229207
+dim
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
+
+telnetd
+dir
+
+libtelnet
+dir
+
+arpa
+dir
+
+telnet
+dir
+

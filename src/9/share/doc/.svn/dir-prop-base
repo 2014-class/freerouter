@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 186
+/head/share/doc:225880,226436,227006,227458
+/projects/largeSMP/share/doc:221273-222812,222815-223757
+/projects/quota64/share/doc:184125-207707
+/vendor/resolver/dist/share/doc:1540-186085
+END

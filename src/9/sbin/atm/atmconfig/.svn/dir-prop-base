@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 249
+/head/sbin/atm/atmconfig:2-3,227006,228611
+/projects/largeSMP/sbin/atm/atmconfig:221273-222812,222815-223757
+/projects/quota64/sbin/atm/atmconfig:184125-207707
+/user/piso/sbin/atm/atmconfig:186725
+/vendor/resolver/dist/sbin/atm/atmconfig:1540-186085
+END

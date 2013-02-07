@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 244
+/head/usr.sbin/wake:226702,226785,227006,228761,229067,229997,230127,230587,232101-232102
+/projects/largeSMP/usr.sbin/wake:221273-222812,222815-223757
+/projects/quota64/usr.sbin/wake:184125-207707
+/vendor/resolver/dist/usr.sbin/wake:1540-186085
+END

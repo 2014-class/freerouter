@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 282
+/head/gnu/usr.bin/gdb/kgdb:227006,229521,230427
+/projects/binutils-2.17/gnu/usr.bin/gdb/kgdb:213992-218817
+/projects/largeSMP/gnu/usr.bin/gdb/kgdb:221273-222812,222815-223757
+/projects/quota64/gnu/usr.bin/gdb/kgdb:184125-207707
+/vendor/resolver/dist/gnu/usr.bin/gdb/kgdb:1540-186085
+END

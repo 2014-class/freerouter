@@ -1,0 +1,123 @@
+10
+
+dir
+246451
+svn://svn.freebsd.org/base/stable/9/contrib/sendmail/cf
+svn://svn.freebsd.org/base
+
+
+
+2013-01-01T18:26:12.920157Z
+244928
+gshapiro
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
+
+m4
+dir
+
+ostype
+dir
+
+hack
+dir
+
+domain
+dir
+
+cf
+dir
+
+mailer
+dir
+
+sh
+dir
+
+siteconfig
+dir
+
+feature
+dir
+
+sendmail.schema
+file
+
+
+
+
+2013-02-07T05:44:21.189996Z
+48851e45dca2a65a77f64f738bbf8d20
+2008-08-28T06:08:29.130931Z
+182352
+gshapiro
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8050
+
+README
+file
+
+
+
+
+2013-02-07T05:44:21.195109Z
+ef18dd32fe30fdf6b8b422cc02bdd7d9
+2013-01-01T18:26:12.920157Z
+244928
+gshapiro
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+186905
+

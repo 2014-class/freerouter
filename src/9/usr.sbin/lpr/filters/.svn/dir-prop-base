@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 244
+/head/usr.sbin/lpr/filters:226702,227006,228663,229067,238546-238547
+/projects/largeSMP/usr.sbin/lpr/filters:221273-222812,222815-223757
+/projects/quota64/usr.sbin/lpr/filters:184125-207707
+/vendor/resolver/dist/usr.sbin/lpr/filters:1540-186085
+END

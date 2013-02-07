@@ -1,0 +1,10 @@
+K 13
+svn:mergeinfo
+V 240
+/head/lib/libz:2-17651,225736-237677
+/projects/largeSMP/lib/libz:221273-222812,222815-223757
+/projects/quota64/lib/libz:184125-207707
+/user/delphij/libz:205302-205470
+/vendor/libz/dist:17652-237252
+/vendor/resolver/dist/lib/libz:1540-186085
+END

@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 237
+/head/sbin/ping6:2-3,227006,229904-229905,229907-229919,233648
+/projects/largeSMP/sbin/ping6:221273-222812,222815-223757
+/projects/quota64/sbin/ping6:184125-207707
+/user/piso/sbin/ping6:186725
+/vendor/resolver/dist/sbin/ping6:1540-186085
+END

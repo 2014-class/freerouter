@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 270
+/head/usr.sbin/syslogd:226702,226785,227006,228761,229067,229997,230127,230587,232986,240389,240409,244523
+/projects/largeSMP/usr.sbin/syslogd:221273-222812,222815-223757
+/projects/quota64/usr.sbin/syslogd:184125-207707
+/vendor/resolver/dist/usr.sbin/syslogd:1540-186085
+END

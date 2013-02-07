@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 275
+/head/tools/tools/nanobsd:225778,226242,227006,227538,227636,228177,228409,229831,235129-235130,235392
+/projects/largeSMP/tools/tools/nanobsd:221273-222812,222815-223757
+/projects/quota64/tools/tools/nanobsd:184125-207707
+/vendor/resolver/dist/tools/tools/nanobsd:1540-186085
+END

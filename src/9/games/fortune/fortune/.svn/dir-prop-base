@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 311
+/head/games/fortune/fortune:226898,227006,228909,228934,228938,235209,235227,238879,241116,241834,241845,241934,242576-242577,243036
+/projects/largeSMP/games/fortune/fortune:221273-222812,222815-223757
+/projects/quota64/games/fortune/fortune:184125-207707
+/vendor/resolver/dist/games/fortune/fortune:1540-186085
+END

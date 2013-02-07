@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 260
+/head/lib/libusb:226220,227006,227404,228235-228236,232157,233424,233648,233667,234193,234491,234687,235286,236944
+/projects/largeSMP/lib/libusb:221273-222812,222815-223757
+/projects/quota64/lib/libusb:184125-207707
+/vendor/resolver/dist/lib/libusb:1540-186085
+END

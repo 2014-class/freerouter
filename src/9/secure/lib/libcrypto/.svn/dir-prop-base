@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 237
+/head/secure/lib/libcrypto:226702,227006,228307,229067,237657
+/projects/largeSMP/secure/lib/libcrypto:221273-222812,222815-223757
+/projects/quota64/secure/lib/libcrypto:184125-207707
+/vendor/resolver/dist/secure/lib/libcrypto:1540-186085
+END

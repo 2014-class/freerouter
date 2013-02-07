@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 234
+/head/sbin/fdisk_pc98:2-3,227006,227273
+/projects/largeSMP/sbin/fdisk_pc98:221273-222812,222815-223757
+/projects/quota64/sbin/fdisk_pc98:184125-207707
+/user/piso/sbin/fdisk_pc98:186725
+/vendor/resolver/dist/sbin/fdisk_pc98:1540-186085
+END

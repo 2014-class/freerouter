@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 346
+/head/usr.sbin/rtadvd:227006,233648,235873
+/projects/largeSMP/usr.sbin/rtadvd:221273-222812,222815-223757
+/projects/quota64/usr.sbin/rtadvd:184125-207707
+/user/hrs/ipv6/usr.sbin/rtadvd:223150,224006,224015,224018,224052-224053,224055,224064,224087,224101,224303-224304,224619-224620,225148-225149
+/vendor/resolver/dist/usr.sbin/rtadvd:1540-186085
+END

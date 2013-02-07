@@ -1,0 +1,11 @@
+K 13
+svn:mergeinfo
+V 498
+/head/usr.sbin/jail:226702,226785,227006,228761,229067,230127,230495,231267,232059,232186,232247,232278,232291,234712,234744,234934,234988,235294,235335,235873,235949,236198,237697,239601-239602,239621
+/projects/head_mfi/usr.sbin/jail:233621
+/projects/jailconf/usr.sbin/jail:214085-232242
+/projects/largeSMP/usr.sbin/jail:221273-222812,222815-223757
+/projects/multi-fibv6/head/usr.sbin/jail:230929-231848
+/projects/quota64/usr.sbin/jail:184125-207707
+/vendor/resolver/dist/usr.sbin/jail:1540-186085
+END

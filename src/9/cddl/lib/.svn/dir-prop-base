@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 210
+/head/cddl/lib:226702,226940,227006,228103,229067,236884,238926,240415
+/projects/largeSMP/cddl/lib:221273-222812,222815-223757
+/projects/quota64/cddl/lib:184125-207707
+/vendor/resolver/dist/cddl/lib:1540-186085
+END

@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 256
+/head/usr.sbin/mfiutil:225798,227006,227893,228119,228278,233713,235635,237259-237260,237329
+/projects/largeSMP/usr.sbin/mfiutil:221273-222812,222815-223757
+/projects/quota64/usr.sbin/mfiutil:184125-207707
+/vendor/resolver/dist/usr.sbin/mfiutil:1540-186085
+END

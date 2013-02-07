@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 309
+/head/gnu/lib/libsupc++:227006,227215,233749,236177,236614,236890,239695,241960,246028
+/projects/binutils-2.17/gnu/lib/libsupc++:213992-218817
+/projects/largeSMP/gnu/lib/libsupc++:221273-222812,222815-223757
+/projects/quota64/gnu/lib/libsupc++:184125-207707
+/vendor/resolver/dist/gnu/lib/libsupc++:1540-186085
+END

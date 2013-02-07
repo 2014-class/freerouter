@@ -1,0 +1,13 @@
+K 14
+fbsd:notbinary
+V 4
+true
+K 12
+svn:keywords
+V 10
+FreeBSD=%H
+K 13
+svn:mime-type
+V 25
+text/plain;charset=EUC-KR
+END

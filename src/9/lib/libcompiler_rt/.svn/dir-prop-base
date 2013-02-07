@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 313
+/head/lib/libcompiler_rt:226702,226785,227006,227755,227983,227987,228531,228630,228761,228919,229067,229135,230127,234715-234716,234772,235487
+/projects/largeSMP/lib/libcompiler_rt:221273-222812,222815-223757
+/projects/quota64/lib/libcompiler_rt:184125-207707
+/vendor/resolver/dist/lib/libcompiler_rt:1540-186085
+END

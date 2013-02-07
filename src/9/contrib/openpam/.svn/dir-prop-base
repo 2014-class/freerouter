@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 238
+/head/contrib/openpam:2-91094,227006,228384
+/projects/largeSMP/contrib/openpam:221273-222812,222815-223757
+/projects/quota64/contrib/openpam:184125-207707
+/vendor/openpam/dist:91095-205440
+/vendor/resolver/dist/contrib/openpam:1540-186085
+END

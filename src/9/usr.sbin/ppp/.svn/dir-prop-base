@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 254
+/head/usr.sbin/ppp:226702,226785,227006,228761,229067,229997,230127,230347-230348,230587,241496,241844
+/projects/largeSMP/usr.sbin/ppp:221273-222812,222815-223757
+/projects/quota64/usr.sbin/ppp:184125-207707
+/vendor/resolver/dist/usr.sbin/ppp:1540-186085
+END

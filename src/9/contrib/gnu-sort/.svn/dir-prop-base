@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 236
+/head/contrib/gnu-sort:2-98038,227006
+/projects/largeSMP/contrib/gnu-sort:221273-222812,222815-223757
+/projects/quota64/contrib/gnu-sort:184125-207707
+/vendor/gnu-sort/dist:98039-207002
+/vendor/resolver/dist/contrib/gnu-sort:1540-186085
+END

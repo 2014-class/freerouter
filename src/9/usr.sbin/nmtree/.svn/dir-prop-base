@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 259
+/projects/head_mfi/usr.sbin/nmtree:233621
+/projects/largeSMP/usr.sbin/nmtree:221273-222812,222815-223757
+/projects/multi-fibv6/head/usr.sbin/nmtree:230929-231848
+/projects/quota64/usr.sbin/nmtree:184125-207707
+/vendor/resolver/dist/usr.sbin/nmtree:1540-186085
+END

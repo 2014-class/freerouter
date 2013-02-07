@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 327
+/head/share/examples/csh:225757,225764,225950,227006,227844,228462,229831,229997,233429,233435,233437,234077,234133,234135,234159,234823,235481,236999,241602
+/projects/largeSMP/share/examples/csh:221273-222812,222815-223757
+/projects/quota64/share/examples/csh:184125-207707
+/vendor/resolver/dist/share/examples/csh:1540-186085
+END

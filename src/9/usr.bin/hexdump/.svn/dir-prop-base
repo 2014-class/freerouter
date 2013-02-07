@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 238
+/head/usr.bin/hexdump:226702,227006,228636,228823,228857,229067,229794,230649
+/projects/largeSMP/usr.bin/hexdump:221273-222812,222815-223757
+/projects/quota64/usr.bin/hexdump:184125-207707
+/vendor/resolver/dist/usr.bin/hexdump:1540-186085
+END

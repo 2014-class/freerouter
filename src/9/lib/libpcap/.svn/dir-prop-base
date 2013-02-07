@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 187
+/head/lib/libpcap:225736-236166,241231
+/projects/largeSMP/lib/libpcap:221273-222812,222815-223757
+/projects/quota64/lib/libpcap:184125-207707
+/vendor/resolver/dist/lib/libpcap:1540-186085
+END

@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 314
+/head/usr.sbin/jls:226702,226785,227006,228761,229067,229997,230127,230587,232613,233713,234313,234315,234322,234351,234870
+/projects/head_mfi/usr.sbin/jls:233621
+/projects/largeSMP/usr.sbin/jls:221273-222812,222815-223757
+/projects/quota64/usr.sbin/jls:184125-207707
+/vendor/resolver/dist/usr.sbin/jls:1540-186085
+END

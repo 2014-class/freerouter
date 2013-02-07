@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 258
+/head/usr.bin/write:226702,227006,228761,228857,229067,229997,230127,230555,231586,232322,232994,233121
+/projects/largeSMP/usr.bin/write:221273-222812,222815-223757
+/projects/quota64/usr.bin/write:184125-207707
+/vendor/resolver/dist/usr.bin/write:1540-186085
+END

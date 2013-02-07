@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 195
+/head/contrib/ncurses:2-50276,227006,235773
+/projects/largeSMP/contrib/ncurses:221273-222812,222815-223757
+/projects/quota64/contrib/ncurses:184125-207707
+/vendor/ncurses/dist:50277-198489,210464
+END

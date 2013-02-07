@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 203
+/head/usr.sbin/kbdmap:226439,226702,237257
+/projects/largeSMP/usr.sbin/kbdmap:221273-222812,222815-223757
+/projects/quota64/usr.sbin/kbdmap:184125-207707
+/vendor/resolver/dist/usr.sbin/kbdmap:1540-186085
+END

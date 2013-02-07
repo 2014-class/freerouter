@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 245
+/head/lib/bind:226702,226785,227006,227755,228531,228630,228761,229067,230127,233914,236196,243981,243987
+/projects/largeSMP/lib/bind:221273-222812,222815-223757
+/projects/quota64/lib/bind:184125-207707
+/vendor/resolver/dist/lib/bind:1540-186085
+END

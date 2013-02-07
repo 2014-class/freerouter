@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 224
+/head/sbin/shutdown:2-3,227006,238968
+/projects/largeSMP/sbin/shutdown:221273-222812,222815-223757
+/projects/quota64/sbin/shutdown:184125-207707
+/user/piso/sbin/shutdown:186725
+/vendor/resolver/dist/sbin/shutdown:1540-186085
+END

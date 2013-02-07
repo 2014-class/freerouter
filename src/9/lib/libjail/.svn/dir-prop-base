@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 250
+/head/lib/libjail:226702,226785,227006,227755,228531,228630,228761,229067,230127,232342,235291,235799
+/projects/largeSMP/lib/libjail:221273-222812,222815-223757
+/projects/quota64/lib/libjail:184125-207707
+/vendor/resolver/dist/lib/libjail:1540-186085
+END

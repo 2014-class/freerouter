@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 208
+/head/lib/libopie:226702,227006,228761,229067,229831,230127
+/projects/largeSMP/lib/libopie:221273-222812,222815-223757
+/projects/quota64/lib/libopie:184125-207707
+/vendor/resolver/dist/lib/libopie:1540-186085
+END

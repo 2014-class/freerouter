@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 200
+/head/usr.bin/minigzip:225736-237678
+/projects/largeSMP/usr.bin/minigzip:221273-222812,222815-223757
+/projects/quota64/usr.bin/minigzip:184125-207707
+/vendor/resolver/dist/usr.bin/minigzip:1540-186085
+END

@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 252
+/head/usr.sbin/moused:226702,226785,227006,228761,229067,229997,230127,230587,233090,240891
+/projects/largeSMP/usr.sbin/moused:221273-222812,222815-223757
+/projects/quota64/usr.sbin/moused:184125-207707
+/vendor/resolver/dist/usr.sbin/moused:1540-186085
+END

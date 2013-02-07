@@ -1,0 +1,86 @@
+10
+
+dir
+246451
+svn://svn.freebsd.org/base/stable/9/sys/amd64
+svn://svn.freebsd.org/base
+
+
+
+2013-02-04T15:51:27.573779Z
+246321
+des
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
+
+acpica
+dir
+
+include
+dir
+
+linux32
+dir
+
+conf
+dir
+
+compile
+dir
+
+amd64
+dir
+
+pci
+dir
+
+Makefile
+file
+
+
+
+
+2013-02-07T05:45:04.147087Z
+26df0398828f7f769b6ead5e2c41093b
+2008-12-01T14:15:10.529301Z
+185515
+kensmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1053
+
+ia32
+dir
+

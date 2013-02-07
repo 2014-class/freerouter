@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 365
+/head/usr.sbin/ancontrol:226702,226785,227006,227524,227526,228761,229067,229997,230127,230587,233713,234313,234315,234322,234351,234870,235726,238221
+/projects/head_mfi/usr.sbin/ancontrol:233621
+/projects/largeSMP/usr.sbin/ancontrol:221273-222812,222815-223757
+/projects/quota64/usr.sbin/ancontrol:184125-207707
+/vendor/resolver/dist/usr.sbin/ancontrol:1540-186085
+END

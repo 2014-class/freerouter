@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 194
+/head/usr.sbin/sa:226702,227006,228681,229067
+/projects/largeSMP/usr.sbin/sa:221273-222812,222815-223757
+/projects/quota64/usr.sbin/sa:184125-207707
+/vendor/resolver/dist/usr.sbin/sa:1540-186085
+END

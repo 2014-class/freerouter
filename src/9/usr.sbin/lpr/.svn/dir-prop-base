@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 342
+/head/usr.sbin/lpr:226702,226785,227006,228761,229067,229997,230127,230587,233713,234244,234313,234315,234322,234351,234870,236289,238546-238547,241848
+/projects/head_mfi/usr.sbin/lpr:233621
+/projects/largeSMP/usr.sbin/lpr:221273-222812,222815-223757
+/projects/quota64/usr.sbin/lpr:184125-207707
+/vendor/resolver/dist/usr.sbin/lpr:1540-186085
+END

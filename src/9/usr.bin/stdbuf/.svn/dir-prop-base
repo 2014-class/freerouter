@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 283
+/head/usr.bin/stdbuf:226702,227006,228761,228857,229067,229997,230127,230555,232322,232994,233121,234206,234772,234779,235142
+/projects/largeSMP/usr.bin/stdbuf:221273-222812,222815-223757
+/projects/quota64/usr.bin/stdbuf:184125-207707
+/vendor/resolver/dist/usr.bin/stdbuf:1540-186085
+END

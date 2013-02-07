@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 206
+/head/sbin/ipf:2-3,227006,228612,239775
+/projects/largeSMP/sbin/ipf:221273-222812,222815-223757
+/projects/quota64/sbin/ipf:184125-207707
+/user/piso/sbin/ipf:186725
+/vendor/resolver/dist/sbin/ipf:1540-186085
+END

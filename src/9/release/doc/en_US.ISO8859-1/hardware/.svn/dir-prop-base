@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 399
+/head/release/doc/en_US.ISO8859-1/hardware:226170,227006,227275,227283,227466,227480,227516,227742,228028,229977,230332,231943,232060,232355,232376,240508,240516,240519,241096
+/projects/largeSMP/release/doc/en_US.ISO8859-1/hardware:221273-222812,222815-223757
+/projects/quota64/release/doc/en_US.ISO8859-1/hardware:184125-207707
+/vendor/resolver/dist/release/doc/en_US.ISO8859-1/hardware:1540-186085
+END

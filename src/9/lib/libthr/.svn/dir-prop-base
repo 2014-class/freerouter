@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 260
+/head/lib/libthr:226702,227006,227604,228536,230430,231106,231503,231619,231906,233103,233516,233912,234424,236135
+/projects/largeSMP/lib/libthr:221273-222812,222815-223757
+/projects/quota64/lib/libthr:184125-207707
+/vendor/resolver/dist/lib/libthr:1540-186085
+END

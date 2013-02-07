@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 249
+/projects/head_mfi/lib/libnetbsd:233621
+/projects/largeSMP/lib/libnetbsd:221273-222812,222815-223757
+/projects/multi-fibv6/head/lib/libnetbsd:230929-231848
+/projects/quota64/lib/libnetbsd:184125-207707
+/vendor/resolver/dist/lib/libnetbsd:1540-186085
+END

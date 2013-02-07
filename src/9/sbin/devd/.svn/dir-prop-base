@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 239
+/head/sbin/devd:2-3,227006,228618,236388,241772,243907,243930-243932
+/projects/largeSMP/sbin/devd:221273-222812,222815-223757
+/projects/quota64/sbin/devd:184125-207707
+/user/piso/sbin/devd:186725
+/vendor/resolver/dist/sbin/devd:1540-186085
+END

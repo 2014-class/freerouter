@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 214
+/head/usr.sbin/route6d:226702,227006,228674,229067
+/projects/largeSMP/usr.sbin/route6d:221273-222812,222815-223757
+/projects/quota64/usr.sbin/route6d:184125-207707
+/vendor/resolver/dist/usr.sbin/route6d:1540-186085
+END

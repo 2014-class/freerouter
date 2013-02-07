@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 216
+/head/sbin/route:2-3,227006,229766,243860
+/projects/largeSMP/sbin/route:221273-222812,222815-223757
+/projects/quota64/sbin/route:184125-207707
+/user/piso/sbin/route:186725
+/vendor/resolver/dist/sbin/route:1540-186085
+END

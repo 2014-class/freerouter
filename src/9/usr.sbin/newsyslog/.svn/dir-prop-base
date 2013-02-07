@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 278
+/head/usr.sbin/newsyslog:226702,227006,228761,228790-228791,229067,233257-233258,233648,238281,244995-244997
+/projects/largeSMP/usr.sbin/newsyslog:221273-222812,222815-223757
+/projects/quota64/usr.sbin/newsyslog:184125-207707
+/vendor/resolver/dist/usr.sbin/newsyslog:1540-186085
+END

@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 241
+/head/usr.bin/newgrp:226274,226416,226702,227006,228761,228857,229067,230127,230555
+/projects/largeSMP/usr.bin/newgrp:221273-222812,222815-223757
+/projects/quota64/usr.bin/newgrp:184125-207707
+/vendor/resolver/dist/usr.bin/newgrp:1540-186085
+END

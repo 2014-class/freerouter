@@ -1,0 +1,201 @@
+10
+
+dir
+246451
+svn://svn.freebsd.org/base/stable/9/lib/libc
+svn://svn.freebsd.org/base
+
+
+
+2013-02-05T09:53:32.992798Z
+246357
+delphij
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
+
+powerpc
+dir
+
+arm
+dir
+
+stdlib
+dir
+
+sparc64
+dir
+
+stdio
+dir
+
+rpc
+dir
+
+db
+dir
+
+yp
+dir
+
+nameser
+dir
+
+nls
+dir
+
+xdr
+dir
+
+locale
+dir
+
+softfloat
+dir
+
+ia64
+dir
+
+mips
+dir
+
+stdtime
+dir
+
+gen
+dir
+
+regex
+dir
+
+Makefile
+file
+
+
+
+
+2013-02-07T05:44:49.297972Z
+5b1844ceb4afa39b807c37213c1f43be
+2011-02-25T00:04:39.930521Z
+219019
+gabor
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4818
+
+isc
+dir
+
+include
+dir
+
+net
+dir
+
+posix1e
+dir
+
+i386
+dir
+
+powerpc64
+dir
+
+quad
+dir
+
+gdtoa
+dir
+
+inet
+dir
+
+gmon
+dir
+
+Versions.def
+file
+
+
+
+
+2013-02-07T05:44:49.297972Z
+3a0f46ecb5365f9d5210b218d21ca145
+2011-12-23T15:00:37.073299Z
+228843
+cperciva
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+835
+
+uuid
+dir
+
+string
+dir
+
+compat-43
+dir
+
+resolv
+dir
+
+amd64
+dir
+
+iconv
+dir
+
+sys
+dir
+

@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 220
+/head/usr.bin/indent:226702,227006,228639,228857,229067,232471
+/projects/largeSMP/usr.bin/indent:221273-222812,222815-223757
+/projects/quota64/usr.bin/indent:184125-207707
+/vendor/resolver/dist/usr.bin/indent:1540-186085
+END

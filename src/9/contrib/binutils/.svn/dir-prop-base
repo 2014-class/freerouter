@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 232
+/head/contrib/binutils:227006,235133,238123,238167,239870,239962,244600,245952
+/projects/binutils-2.17/contrib/binutils:213992-218817
+/projects/largeSMP/contrib/binutils:221273-222812,222815-223757
+/vendor/binutils/dist:33966-214571
+END

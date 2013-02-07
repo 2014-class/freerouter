@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 252
+/head/sbin/mdconfig:2-3,227006,234047,237645,238202,242546,243372
+/projects/largeSMP/sbin/mdconfig:221273-222812,222815-223757
+/projects/quota64/sbin/mdconfig:184125-207707
+/user/piso/sbin/mdconfig:186725
+/vendor/resolver/dist/sbin/mdconfig:1540-186085
+END

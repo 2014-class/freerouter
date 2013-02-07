@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 171
+/head/contrib/ntp:227006,232844,245952
+/projects/largeSMP/contrib/ntp:221273-222812,222815-223757
+/projects/quota64/contrib/ntp:184125-207707
+/vendor/ntp/dist:54360-200575
+END

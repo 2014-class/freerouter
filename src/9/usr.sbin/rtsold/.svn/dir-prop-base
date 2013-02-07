@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 234
+/head/usr.sbin/rtsold:227006
+/projects/largeSMP/usr.sbin/rtsold:221273-222812,222815-223757
+/projects/quota64/usr.sbin/rtsold:184125-207707
+/user/hrs/ipv6/usr.sbin/rtsold:223149,225150
+/vendor/resolver/dist/usr.sbin/rtsold:1540-186085
+END

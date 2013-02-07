@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 186
+/head/kerberos5:225778,227006,228284,228308
+/projects/largeSMP/kerberos5:221273-222812,222815-223757
+/projects/quota64/kerberos5:184125-207707
+/vendor/resolver/dist/kerberos5:1540-186085
+END

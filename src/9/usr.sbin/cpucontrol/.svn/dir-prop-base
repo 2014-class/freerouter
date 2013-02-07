@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 254
+/head/usr.sbin/cpucontrol:226702,227006,228436,228658,229067,235873,236504,245491
+/projects/largeSMP/usr.sbin/cpucontrol:221273-222812,222815-223757
+/projects/quota64/usr.sbin/cpucontrol:184125-207707
+/vendor/resolver/dist/usr.sbin/cpucontrol:1540-186085
+END

@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 251
+/head/lib/libradius:226702,226785,227006,227755,228531,228630,228730,228761,229067,230127,235286
+/projects/largeSMP/lib/libradius:221273-222812,222815-223757
+/projects/quota64/lib/libradius:184125-207707
+/vendor/resolver/dist/lib/libradius:1540-186085
+END

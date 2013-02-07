@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 240
+/head/sbin/restore:2-3,227006,240892-240893,241848,242005
+/projects/largeSMP/sbin/restore:221273-222812,222815-223757
+/projects/quota64/sbin/restore:184125-207707
+/user/piso/sbin/restore:186725
+/vendor/resolver/dist/sbin/restore:1540-186085
+END

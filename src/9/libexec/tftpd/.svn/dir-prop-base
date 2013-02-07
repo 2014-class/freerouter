@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 279
+/head/libexec/tftpd:226702,226785,227006,228761,229067,229904-229905,229907-229919,230127,231973,233648,241848,242005,244686
+/projects/largeSMP/libexec/tftpd:221273-222812,222815-223757
+/projects/quota64/libexec/tftpd:184125-207707
+/vendor/resolver/dist/libexec/tftpd:1540-186085
+END

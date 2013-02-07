@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 190
+/head/contrib/openbsm:2-155131,225736-244360
+/projects/largeSMP/contrib/openbsm:221273-222812,222815-223757
+/projects/quota64/contrib/openbsm:184125-207707
+/vendor/openbsm/dist:155132-244257
+END

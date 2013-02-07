@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 256
+/head/sbin/gvinum:2-3,227006,227489,229904-229905,229907-229919,233648,235873
+/projects/largeSMP/sbin/gvinum:221273-222812,222815-223757
+/projects/quota64/sbin/gvinum:184125-207707
+/user/piso/sbin/gvinum:186725
+/vendor/resolver/dist/sbin/gvinum:1540-186085
+END

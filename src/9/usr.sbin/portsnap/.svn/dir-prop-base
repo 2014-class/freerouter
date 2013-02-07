@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 225
+/head/usr.sbin/portsnap:226028,227006,235208,241024,241026
+/projects/largeSMP/usr.sbin/portsnap:221273-222812,222815-223757
+/projects/quota64/usr.sbin/portsnap:184125-207707
+/vendor/resolver/dist/usr.sbin/portsnap:1540-186085
+END

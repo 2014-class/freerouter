@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 239
+/head/usr.sbin/boot0cfg:226714,227006,227274,227298,228656,228738,230978
+/projects/largeSMP/usr.sbin/boot0cfg:221273-222812,222815-223757
+/projects/quota64/usr.sbin/boot0cfg:184125-207707
+/vendor/resolver/dist/usr.sbin/boot0cfg:1540-186085
+END

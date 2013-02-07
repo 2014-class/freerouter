@@ -1,0 +1,10 @@
+K 13
+svn:mergeinfo
+V 300
+/head/contrib/tzcode/stdtime:2-184124,226828,227006
+/projects/largeSMP/contrib/tzcode/stdtime:221273-222812,222815-223757
+/projects/quota64/contrib/tzcode/stdtime:184125-207707
+/vendor/resolver/dist/contrib/tzcode/stdtime:1540-186085
+/vendor/tzcode:2703-183403
+/vendor/tzcode/dist/libc/stdtime:200830
+END

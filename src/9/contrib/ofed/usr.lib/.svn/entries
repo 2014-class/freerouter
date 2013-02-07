@@ -1,0 +1,132 @@
+10
+
+dir
+246451
+svn://svn.freebsd.org/base/stable/9/contrib/ofed/usr.lib
+svn://svn.freebsd.org/base
+
+
+
+2011-03-21T09:58:24.554331Z
+219820
+jeff
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
+
+libibcm
+dir
+
+libibmad
+dir
+
+libibverbs
+dir
+
+libmthca
+dir
+
+libosmvendor
+dir
+
+libosmcomp
+dir
+
+Makefile.inc
+file
+
+
+
+
+2013-02-07T05:44:03.697009Z
+6e5141d13f0430c9345a4523d8c9fb67
+2011-03-21T09:58:24.554331Z
+219820
+jeff
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+573
+
+libibumad
+dir
+
+libopensm
+dir
+
+libibcommon
+dir
+
+librdmacm
+dir
+
+libmlx4
+dir
+
+libsdp
+dir
+
+Makefile
+file
+
+
+
+
+2013-02-07T05:44:03.697009Z
+0a1dfdd3ff8e0bf45a7c4d4e8754a21a
+2011-03-21T09:58:24.554331Z
+219820
+jeff
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+186
+

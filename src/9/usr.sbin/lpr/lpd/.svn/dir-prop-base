@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 235
+/head/usr.sbin/lpr/lpd:226702,227006,228664,229067,238546-238547,239233
+/projects/largeSMP/usr.sbin/lpr/lpd:221273-222812,222815-223757
+/projects/quota64/usr.sbin/lpr/lpd:184125-207707
+/vendor/resolver/dist/usr.sbin/lpr/lpd:1540-186085
+END

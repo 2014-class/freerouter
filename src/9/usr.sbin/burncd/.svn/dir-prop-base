@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 196
+/head/usr.sbin/burncd:226179,227006
+/projects/largeSMP/usr.sbin/burncd:221273-222812,222815-223757
+/projects/quota64/usr.sbin/burncd:184125-207707
+/vendor/resolver/dist/usr.sbin/burncd:1540-186085
+END

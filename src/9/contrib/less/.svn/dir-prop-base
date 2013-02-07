@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 223
+/head/contrib/less:2-60786,225736-240111
+/projects/largeSMP/contrib/less:221273-222812,222815-223757
+/projects/quota64/contrib/less:184125-207707
+/vendor/less/dist:60787-238728
+/vendor/resolver/dist/contrib/less:1540-186085
+END
