@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 250
-/head/gnu/usr.bin/gdb:227006,235211
-/projects/binutils-2.17/gnu/usr.bin/gdb:213992-218817
-/projects/largeSMP/gnu/usr.bin/gdb:221273-222812,222815-223757
-/projects/quota64/gnu/usr.bin/gdb:184125-207707
-/vendor/resolver/dist/gnu/usr.bin/gdb:1540-186085
-END

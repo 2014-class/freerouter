@@ -1,1035 +1,0 @@
-10
-
-dir
-246451
-svn://svn.freebsd.org/base/stable/9/usr.bin
-svn://svn.freebsd.org/base
-
-
-
-2013-02-06T22:07:38.798154Z
-246437
-mav
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
-
-lastcomm
-dir
-
-kdump
-dir
-
-elf2aout
-dir
-
-atm
-dir
-
-chpass
-dir
-
-nfsstat
-dir
-
-keylogout
-dir
-
-rusers
-dir
-
-clang
-dir
-
-bc
-dir
-
-killall
-dir
-
-ruptime
-dir
-
-minigzip
-dir
-
-stdbuf
-dir
-
-ministat
-dir
-
-makewhatis
-dir
-
-who
-dir
-
-tcopy
-dir
-
-time
-dir
-
-csplit
-dir
-
-wall
-dir
-
-procstat
-dir
-
-mkstr
-dir
-
-xstr
-dir
-
-printenv
-dir
-
-renice
-dir
-
-bluetooth
-dir
-
-mkcsmapper_static
-dir
-
-make
-dir
-
-vmstat
-dir
-
-lesskey
-dir
-
-Makefile.ia64
-file
-
-
-
-
-2013-02-07T05:45:18.426029Z
-65609c53339cbe5c98bde116b4adb248
-2010-09-13T02:23:03.297714Z
-212526
-imp
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-30
-
-usbhidctl
-dir
-
-cksum
-dir
-
-setchannel
-dir
-
-rs
-dir
-
-fold
-dir
-
-apply
-dir
-
-ktrdump
-dir
-
-write
-dir
-
-hesinfo
-dir
-
-comm
-dir
-
-mesg
-dir
-
-logins
-dir
-
-telnet
-dir
-
-rsh
-dir
-
-cap_mkdb
-dir
-
-yes
-dir
-
-ctags
-dir
-
-limits
-dir
-
-which
-dir
-
-top
-dir
-
-mkesdb
-dir
-
-opieinfo
-dir
-
-msgs
-dir
-
-perror
-dir
-
-csup
-dir
-
-basename
-dir
-
-uniq
-dir
-
-checknr
-dir
-
-tftp
-dir
-
-rpcgen
-dir
-
-iconv
-dir
-
-rwho
-dir
-
-m4
-dir
-
-pathchk
-dir
-
-fsync
-dir
-
-nsupdate
-dir
-
-Makefile.inc
-file
-
-
-
-
-2013-02-07T05:45:18.424989Z
-225cca3d63cf6c4c354c6b99cccfd9fb
-2010-01-02T10:27:05.713591Z
-201386
-ed
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-84
-
-dc
-dir
-
-systat
-dir
-
-su
-dir
-
-lock
-dir
-
-env
-dir
-
-fetch
-dir
-
-ftp
-dir
-
-rlogin
-dir
-
-Makefile.powerpc
-file
-
-
-
-
-2013-02-07T05:45:18.427110Z
-65609c53339cbe5c98bde116b4adb248
-2010-09-13T02:23:03.297714Z
-212526
-imp
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-30
-
-column
-dir
-
-join
-dir
-
-locale
-dir
-
-enigma
-dir
-
-mkdep
-dir
-
-users
-dir
-
-from
-dir
-
-dig
-dir
-
-vacation
-dir
-
-biff
-dir
-
-locate
-dir
-
-du
-dir
-
-ncplogin
-dir
-
-lam
-dir
-
-finger
-dir
-
-mkfifo
-dir
-
-tsort
-dir
-
-brandelf
-dir
-
-smbutil
-dir
-
-true
-dir
-
-fstat
-dir
-
-awk
-dir
-
-touch
-dir
-
-unexpand
-dir
-
-tr
-dir
-
-truncate
-dir
-
-fmt
-dir
-
-tar
-dir
-
-colcrt
-dir
-
-ee
-dir
-
-alias
-dir
-
-nohup
-dir
-
-rev
-dir
-
-tip
-dir
-
-grep
-dir
-
-ipcs
-dir
-
-gencat
-dir
-
-newgrp
-dir
-
-what
-dir
-
-file2c
-dir
-
-w
-dir
-
-rup
-dir
-
-hexdump
-dir
-
-usbhidaction
-dir
-
-ncplist
-dir
-
-colrm
-dir
-
-xzdec
-dir
-
-nice
-dir
-
-logger
-dir
-
-mt
-dir
-
-ul
-dir
-
-ypcat
-dir
-
-rwall
-dir
-
-vgrind
-dir
-
-tail
-dir
-
-whois
-dir
-
-elfdump
-dir
-
-mktemp
-dir
-
-lsvfs
-dir
-
-Makefile.sparc64
-file
-
-
-
-
-2013-02-07T05:45:18.423989Z
-65609c53339cbe5c98bde116b4adb248
-2010-09-13T02:23:03.297714Z
-212526
-imp
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-30
-
-rpcinfo
-dir
-
-nc
-dir
-
-c89
-dir
-
-unvis
-dir
-
-banner
-dir
-
-lessecho
-dir
-
-unzip
-dir
-
-pagesize
-dir
-
-colldef
-dir
-
-login
-dir
-
-nl
-dir
-
-ipcrm
-dir
-
-man
-dir
-
-sed
-dir
-
-Makefile
-file
-
-
-
-
-2013-02-07T05:45:18.424989Z
-cca684873d208aba19dda9c38e144431
-2012-05-29T16:21:43.333552Z
-236244
-jpaetzel
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4012
-
-vi
-dir
-
-expand
-dir
-
-cmp
-dir
-
-lzmainfo
-dir
-
-file
-dir
-
-tset
-dir
-
-yacc
-dir
-
-dirname
-dir
-
-truss
-dir
-
-indent
-dir
-
-seq
-dir
-
-tabs
-dir
-
-revoke
-dir
-
-cut
-dir
-
-jot
-dir
-
-bsdiff
-dir
-
-xlint
-dir
-
-xinstall
-dir
-
-gcore
-dir
-
-getopt
-dir
-
-units
-dir
-
-cpuset
-dir
-
-catman
-dir
-
-ldd
-dir
-
-showmount
-dir
-
-c99
-dir
-
-rctl
-dir
-
-uname
-dir
-
-Makefile.i386
-file
-
-
-
-
-2013-02-07T05:45:18.424989Z
-4228ae0d150485c51d2d2e3e60234864
-2010-09-13T02:23:03.297714Z
-212526
-imp
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-94
-
-ktrace
-dir
-
-wc
-dir
-
-paste
-dir
-
-ncal
-dir
-
-mkuzip
-dir
-
-compile_et
-dir
-
-mkulzma
-dir
-
-unifdef
-dir
-
-mklocale
-dir
-
-Makefile.amd64
-file
-
-
-
-
-2013-02-07T05:45:18.426029Z
-4228ae0d150485c51d2d2e3e60234864
-2010-09-13T02:23:03.297714Z
-212526
-imp
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-94
-
-quota
-dir
-
-false
-dir
-
-compress
-dir
-
-split
-dir
-
-Makefile.arm
-file
-
-
-
-
-2013-02-07T05:45:18.426029Z
-ced58c4af987be6d98fa83334038d8a6
-2010-09-13T02:23:03.297714Z
-212526
-imp
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-39
-
-uudecode
-dir
-
-lockf
-dir
-
-passwd
-dir
-
-newkey
-dir
-
-last
-dir
-
-asa
-dir
-
-look
-dir
-
-wtmpcvt
-dir
-
-less
-dir
-
-whereis
-dir
-
-ypwhich
-dir
-
-bzip2recover
-dir
-
-tee
-dir
-
-col
-dir
-
-host
-dir
-
-chat
-dir
-
-tty
-dir
-
-find
-dir
-
-keylogin
-dir
-
-pr
-dir
-
-logname
-dir
-
-netstat
-dir
-
-mail
-dir
-
-xargs
-dir
-
-getconf
-dir
-
-bzip2
-dir
-
-getent
-dir
-
-lorder
-dir
-
-lex
-dir
-
-cpio
-dir
-
-sockstat
-dir
-
-talk
-dir
-
-leave
-dir
-
-id
-dir
-
-tput
-dir
-
-shar
-dir
-
-xz
-dir
-
-vis
-dir
-
-head
-dir
-
-mkcsmapper
-dir
-
-ar
-dir
-
-printf
-dir
-
-chkey
-dir
-
-at
-dir
-
-script
-dir
-
-ypmatch
-dir
-
-opiekey
-dir
-
-uuencode
-dir
-
-calendar
-dir
-
-gzip
-dir
-
-nslookup
-dir
-
-stat
-dir
-
-mkesdb_static
-dir
-
-gprof
-dir
-
-opiepasswd
-dir
-
-ctlstat
-dir
-

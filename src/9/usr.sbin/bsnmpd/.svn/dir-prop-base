@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 259
-/head/usr.sbin/bsnmpd:226702,226785,227006,228761,229067,229385,230127,235286,239462,240595,245952
-/projects/largeSMP/usr.sbin/bsnmpd:221273-222812,222815-223757
-/projects/quota64/usr.sbin/bsnmpd:184125-207707
-/vendor/resolver/dist/usr.sbin/bsnmpd:1540-186085
-END

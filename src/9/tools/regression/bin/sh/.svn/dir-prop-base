@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 361
-/head/tools/regression/bin/sh:225778,226892,227006,227538,227636,228007,228177,228259,228409,228873,229000-229001,229742,230095,230121,230211-230212,232839,242767,243252,245382
-/projects/largeSMP/tools/regression/bin/sh:221273-222812,222815-223757
-/projects/quota64/tools/regression/bin/sh:184125-207707
-/vendor/resolver/dist/tools/regression/bin/sh:1540-186085
-END

@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 240
-/head/contrib/netcat:225736-235949,241906
-/projects/largeSMP/contrib/netcat:221273-222812,222815-223757
-/projects/multi-fibv6/head/contrib/netcat:230929-231848
-/projects/quota64/contrib/netcat:184125-207707
-/vendor/netcat/dist:141262-241905
-END

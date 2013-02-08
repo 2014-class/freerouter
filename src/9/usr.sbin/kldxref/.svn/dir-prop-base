@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 341
-/head/usr.sbin/kldxref:226702,226785,227006,228761,229067,229997,230127,230587,233713,234313,234315,234322,234351,234870,235726,237258
-/projects/head_mfi/usr.sbin/kldxref:233621
-/projects/largeSMP/usr.sbin/kldxref:221273-222812,222815-223757
-/projects/quota64/usr.sbin/kldxref:184125-207707
-/vendor/resolver/dist/usr.sbin/kldxref:1540-186085
-END

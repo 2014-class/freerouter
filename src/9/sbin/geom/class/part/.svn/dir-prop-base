@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 378
-/head/sbin/geom/class/part:2-3,226436,226816,227006,227458,227464,227471,227774,227777,227800,229838,229847,229886,229916,230059,233179,235033,235873,239836,245012
-/projects/largeSMP/sbin/geom/class/part:221273-222812,222815-223757
-/projects/quota64/sbin/geom/class/part:184125-207707
-/user/piso/sbin/geom/class/part:186725
-/vendor/resolver/dist/sbin/geom/class/part:1540-186085
-END

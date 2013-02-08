@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 255
-/head/usr.bin/bsdiff:226702,227006,228761,228857,229067,229904-229905,229907-229919,230127,233648
-/projects/largeSMP/usr.bin/bsdiff:221273-222812,222815-223757
-/projects/quota64/usr.bin/bsdiff:184125-207707
-/vendor/resolver/dist/usr.bin/bsdiff:1540-186085
-END

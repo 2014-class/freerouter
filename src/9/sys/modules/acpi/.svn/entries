@@ -1,132 +1,0 @@
-10
-
-dir
-246451
-svn://svn.freebsd.org/base/stable/9/sys/modules/acpi
-svn://svn.freebsd.org/base
-
-
-
-2011-04-15T18:34:27.845654Z
-220663
-jkim
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
-
-acpi_video
-dir
-
-acpi_hp
-dir
-
-acpi_ibm
-dir
-
-acpi_sony
-dir
-
-acpi_fujitsu
-dir
-
-acpi_toshiba
-dir
-
-Makefile.inc
-file
-
-
-
-
-2013-02-07T05:45:12.801978Z
-be2fb14c43884cc7176fd0d6a01fea7d
-2004-01-13T13:08:27.000000Z
-124476
-nyan
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-40
-
-acpi_asus
-dir
-
-acpi_panasonic
-dir
-
-acpi_wmi
-dir
-
-acpi
-dir
-
-acpi_dock
-dir
-
-Makefile
-file
-
-
-
-
-2013-02-07T05:45:12.801978Z
-cee3888d5d32e88e42ae8713531297a1
-2010-11-08T20:30:59.496782Z
-215007
-jhb
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-169
-
-aibs
-dir
-

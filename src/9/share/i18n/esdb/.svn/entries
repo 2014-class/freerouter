@@ -1,181 +1,0 @@
-10
-
-dir
-246451
-svn://svn.freebsd.org/base/stable/9/share/i18n/esdb
-svn://svn.freebsd.org/base
-
-
-
-2011-02-25T00:04:39.930521Z
-219019
-gabor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
-
-KOI
-dir
-
-Makefile.part
-file
-
-
-
-
-2013-02-07T05:44:34.887109Z
-4d63415919a5d1283364fcbb9ffda27f
-2011-02-25T00:04:39.930521Z
-219019
-gabor
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1937
-
-Makefile.inc
-file
-
-
-
-
-2013-02-07T05:44:34.888109Z
-a6d5c3f4694a0dc6263b938bb7d25bc0
-2011-02-25T00:04:39.930521Z
-219019
-gabor
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-128
-
-BIG5
-dir
-
-AST
-dir
-
-GB
-dir
-
-ISO646
-dir
-
-DEC
-dir
-
-GEORGIAN
-dir
-
-MISC
-dir
-
-UTF
-dir
-
-APPLE
-dir
-
-CP
-dir
-
-ISO-8859
-dir
-
-KAZAKH
-dir
-
-EBCDIC
-dir
-
-TCVN
-dir
-
-EUC
-dir
-
-ISO-2022
-dir
-
-Makefile
-file
-
-
-
-
-2013-02-07T05:44:34.887109Z
-e244c7979f364e0c408adb0fb675db87
-2011-02-25T00:04:39.930521Z
-219019
-gabor
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-683
-

@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 202
-/head/libexec/getty:226702,227006,228582,229067
-/projects/largeSMP/libexec/getty:221273-222812,222815-223757
-/projects/quota64/libexec/getty:184125-207707
-/vendor/resolver/dist/libexec/getty:1540-186085
-END

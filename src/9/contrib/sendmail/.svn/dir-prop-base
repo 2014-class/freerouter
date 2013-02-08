@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 212
-/head/contrib/sendmail:225906,227006,240292,243649,244833-244834
-/projects/largeSMP/contrib/sendmail:221273-222812,222815-223757
-/projects/quota64/contrib/sendmail:184125-207707
-/vendor/sendmail/dist:38033-244832
-END

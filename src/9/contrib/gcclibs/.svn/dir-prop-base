@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 231
-/head/contrib/gcclibs:226702,226785,227006,228474,228761,229067,230127
-/projects/largeSMP/contrib/gcclibs:221273-222812,222815-223757
-/projects/quota64/contrib/gcclibs:184125-207707
-/vendor/resolver/dist/contrib/gcclibs:1540-186085
-END

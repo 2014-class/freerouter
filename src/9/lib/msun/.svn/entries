@@ -1,132 +1,0 @@
-10
-
-dir
-246451
-svn://svn.freebsd.org/base/stable/9/lib/msun
-svn://svn.freebsd.org/base
-
-
-
-2012-11-17T23:05:18.574098Z
-243193
-dim
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
-
-arm
-dir
-
-powerpc
-dir
-
-bsdsrc
-dir
-
-Symbol.map
-file
-
-
-
-
-2013-02-07T05:44:44.860967Z
-1634e2664fbfaaf4bde79eb81d9d8e82
-2011-03-12T19:37:35.442725Z
-219576
-kargl
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2021
-
-sparc64
-dir
-
-ia64
-dir
-
-ld80
-dir
-
-src
-dir
-
-mips
-dir
-
-i387
-dir
-
-ld128
-dir
-
-amd64
-dir
-
-man
-dir
-
-Makefile
-file
-
-
-
-
-2013-02-07T05:44:44.860110Z
-61bca3daf08c5b019d666e30a8888151
-2011-03-12T19:37:35.442725Z
-219576
-kargl
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7924
-

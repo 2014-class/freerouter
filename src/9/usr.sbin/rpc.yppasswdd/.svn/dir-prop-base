@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 259
-/head/usr.sbin/rpc.yppasswdd:226702,226785,227006,228761,229067,230127,231118
-/projects/largeSMP/usr.sbin/rpc.yppasswdd:221273-222812,222815-223757
-/projects/quota64/usr.sbin/rpc.yppasswdd:184125-207707
-/vendor/resolver/dist/usr.sbin/rpc.yppasswdd:1540-186085
-END

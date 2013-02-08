@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 237
-/head/usr.bin/usbhidaction:225839,226702,227006,228857,229067
-/projects/largeSMP/usr.bin/usbhidaction:221273-222812,222815-223757
-/projects/quota64/usr.bin/usbhidaction:184125-207707
-/vendor/resolver/dist/usr.bin/usbhidaction:1540-186085
-END

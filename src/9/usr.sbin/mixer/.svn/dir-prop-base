@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 227
-/head/usr.sbin/mixer:226702,226785,227006,228761,229067,230127,230611
-/projects/largeSMP/usr.sbin/mixer:221273-222812,222815-223757
-/projects/quota64/usr.sbin/mixer:184125-207707
-/vendor/resolver/dist/usr.sbin/mixer:1540-186085
-END

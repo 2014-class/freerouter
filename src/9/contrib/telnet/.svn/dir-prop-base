@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 220
-/head/contrib/telnet:226702,227006,228559,228589,228651,229067
-/projects/largeSMP/contrib/telnet:221273-222812,222815-223757
-/projects/quota64/contrib/telnet:184125-207707
-/vendor/resolver/dist/contrib/telnet:1540-186085
-END

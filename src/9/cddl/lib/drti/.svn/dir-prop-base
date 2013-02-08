@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 195
-/head/cddl/lib/drti:226702,227006,228057
-/projects/largeSMP/cddl/lib/drti:221273-222812,222815-223757
-/projects/quota64/cddl/lib/drti:184125-207707
-/vendor/resolver/dist/cddl/lib/drti:1540-186085
-END

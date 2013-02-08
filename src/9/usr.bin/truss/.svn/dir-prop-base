@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 272
-/head/usr.bin/truss:226702,227006,228261,228857,229067,234060,239501,239611,239898,240005,240364,240393,240562,245956
-/projects/largeSMP/usr.bin/truss:221273-222812,222815-223757
-/projects/quota64/usr.bin/truss:184125-207707
-/vendor/resolver/dist/usr.bin/truss:1540-186085
-END

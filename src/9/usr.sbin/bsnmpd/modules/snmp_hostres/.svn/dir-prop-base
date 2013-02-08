@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 336
-/head/usr.sbin/bsnmpd/modules/snmp_hostres:226702,226785,227006,228761,229067,229385,230127,235286,240354,240595
-/projects/largeSMP/usr.sbin/bsnmpd/modules/snmp_hostres:221273-222812,222815-223757
-/projects/quota64/usr.sbin/bsnmpd/modules/snmp_hostres:184125-207707
-/vendor/resolver/dist/usr.sbin/bsnmpd/modules/snmp_hostres:1540-186085
-END

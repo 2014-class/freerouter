@@ -1,220 +1,0 @@
-10
-
-dir
-246451
-svn://svn.freebsd.org/base/stable/9/contrib
-svn://svn.freebsd.org/base
-
-
-
-2013-02-06T00:42:23.092050Z
-246373
-delphij
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
-
-libc-pwcache
-dir
-
-ncurses
-dir
-
-wpa
-dir
-
-nvi
-dir
-
-compiler-rt
-dir
-
-openpam
-dir
-
-amd
-dir
-
-gperf
-dir
-
-mknod
-dir
-
-diff
-dir
-
-libc-vis
-dir
-
-tcp_wrappers
-dir
-
-libstdc++
-dir
-
-gnu-sort
-dir
-
-ipfilter
-dir
-
-netcat
-dir
-
-file
-dir
-
-com_err
-dir
-
-telnet
-dir
-
-sendmail
-dir
-
-openresolv
-dir
-
-libcxxrt
-dir
-
-dialog
-dir
-
-top
-dir
-
-bind9
-dir
-
-libreadline
-dir
-
-dtc
-dir
-
-smbfs
-dir
-
-tcpdump
-dir
-
-texinfo
-dir
-
-mtree
-dir
-
-expat
-dir
-
-tzdata
-dir
-
-cvs
-dir
-
-lukemftpd
-dir
-
-gcc
-dir
-
-libc++
-dir
-
-ntp
-dir
-
-tcsh
-dir
-
-openbsm
-dir
-
-groff
-dir
-
-pf
-dir
-
-less
-dir
-
-libarchive
-dir
-
-pnpinfo
-dir
-
-libpcap
-dir
-
-traceroute
-dir
-
-ofed
-dir
-
-bsnmp
-dir
-
-bzip2
-dir
-
-tzcode
-dir
-
-ee
-dir
-
-binutils
-dir
-
-tnftp
-dir
-
-gdb
-dir
-
-opie
-dir
-
-gdtoa
-dir
-
-xz
-dir
-
-pam_modules
-dir
-
-ngatm
-dir
-
-gcclibs
-dir
-
-libbegemot
-dir
-
-llvm
-dir
-
-one-true-awk
-dir
-

@@ -1,360 +1,0 @@
-10
-
-dir
-246451
-svn://svn.freebsd.org/base/stable/9/lib
-svn://svn.freebsd.org/base
-
-
-
-2013-02-05T19:10:50.113285Z
-246368
-dim
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
-
-libfetch
-dir
-
-msun
-dir
-
-ncurses
-dir
-
-clang
-dir
-
-libipx
-dir
-
-libcam
-dir
-
-libmd
-dir
-
-librpcsvc
-dir
-
-libiconv_modules
-dir
-
-libmemstat
-dir
-
-librtld_db
-dir
-
-libmp
-dir
-
-libsmutil
-dir
-
-libutil
-dir
-
-libusbhid
-dir
-
-libbsnmp
-dir
-
-libjail
-dir
-
-libncp
-dir
-
-libbsm
-dir
-
-libsmb
-dir
-
-libc
-dir
-
-libcom_err
-dir
-
-Makefile
-file
-
-
-
-
-2013-02-07T05:44:49.979109Z
-629c34569a0cf4535e3d08bb492461f1
-2013-01-15T16:41:52.280675Z
-245461
-brooks
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4266
-
-libstdbuf
-dir
-
-libvgl
-dir
-
-libkiconv
-dir
-
-libalias
-dir
-
-libdisk
-dir
-
-libdevinfo
-dir
-
-libefi
-dir
-
-liblzma
-dir
-
-libipsec
-dir
-
-libngatm
-dir
-
-libnetgraph
-dir
-
-libcxxrt
-dir
-
-liby
-dir
-
-libypclnt
-dir
-
-libz
-dir
-
-libtacplus
-dir
-
-libthread_db
-dir
-
-libcompiler_rt
-dir
-
-libnetbsd
-dir
-
-libgpib
-dir
-
-librt
-dir
-
-libgeom
-dir
-
-libradius
-dir
-
-libtelnet
-dir
-
-librpcsec_gss
-dir
-
-libopie
-dir
-
-libkvm
-dir
-
-libbz2
-dir
-
-libthr
-dir
-
-libufs
-dir
-
-Makefile.inc
-file
-
-
-
-
-2013-02-07T05:44:49.979109Z
-a6dfef703e1e15bb7cf19e1385276362
-2010-01-02T09:58:07.614395Z
-201381
-ed
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-115
-
-libsbuf
-dir
-
-libbluetooth
-dir
-
-libulog
-dir
-
-libc++
-dir
-
-libwrap
-dir
-
-libcalendar
-dir
-
-libstand
-dir
-
-libdevstat
-dir
-
-libpam
-dir
-
-libpmc
-dir
-
-libsm
-dir
-
-libarchive
-dir
-
-libkse
-dir
-
-libpcap
-dir
-
-libsmdb
-dir
-
-libugidfw
-dir
-
-bind
-dir
-
-libgssapi
-dir
-
-libusb
-dir
-
-libmilter
-dir
-
-libprocstat
-dir
-
-libcrypt
-dir
-
-libproc
-dir
-
-csu
-dir
-
-libdwarf
-dir
-
-libelf
-dir
-
-libauditd
-dir
-
-libiconv
-dir
-
-libmagic
-dir
-
-libftpio
-dir
-
-libblocksruntime
-dir
-
-libexpat
-dir
-
-libbegemot
-dir
-
-libcompat
-dir
-
-libedit
-dir
-
-libsdp
-dir
-

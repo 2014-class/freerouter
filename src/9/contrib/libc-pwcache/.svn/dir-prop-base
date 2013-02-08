@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 284
-/projects/head_mfi/contrib/libc-pwcache:233621
-/projects/largeSMP/contrib/libc-pwcache:221273-222812,222815-223757
-/projects/multi-fibv6/head/contrib/libc-pwcache:230929-231848
-/projects/quota64/contrib/libc-pwcache:184125-207707
-/vendor/resolver/dist/contrib/libc-pwcache:1540-186085
-END

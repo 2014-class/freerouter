@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 313
-/head/usr.sbin/bsnmpd/tools/bsnmptools:226702,226785,227006,228761,229067,229385,230127,233648,235286
-/projects/largeSMP/usr.sbin/bsnmpd/tools/bsnmptools:221273-222812,222815-223757
-/projects/quota64/usr.sbin/bsnmpd/tools/bsnmptools:184125-207707
-/vendor/resolver/dist/usr.sbin/bsnmpd/tools/bsnmptools:1540-186085
-END

@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 225
-/head/lib/libvgl:226702,226785,227006,228761,229067,229415,229516,230127,232157
-/projects/largeSMP/lib/libvgl:221273-222812,222815-223757
-/projects/quota64/lib/libvgl:184125-207707
-/vendor/resolver/dist/lib/libvgl:1540-186085
-END

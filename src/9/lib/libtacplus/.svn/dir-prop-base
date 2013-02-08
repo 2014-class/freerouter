@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 276
-/head/lib/libtacplus:226702,226785,227006,227755,228531,228630,228761,229067,230127,233648,234715-234716,234772,235286
-/projects/largeSMP/lib/libtacplus:221273-222812,222815-223757
-/projects/quota64/lib/libtacplus:184125-207707
-/vendor/resolver/dist/lib/libtacplus:1540-186085
-END

@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 186
-/head/sbin:2-3,227006,240892-240893
-/projects/largeSMP/sbin:221273-222812,222815-223757
-/projects/quota64/sbin:184125-207707
-/user/piso/sbin:186725
-/vendor/resolver/dist/sbin:1540-186085
-END

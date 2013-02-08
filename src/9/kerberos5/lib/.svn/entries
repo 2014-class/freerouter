@@ -1,138 +1,0 @@
-10
-
-dir
-246451
-svn://svn.freebsd.org/base/stable/9/kerberos5/lib
-svn://svn.freebsd.org/base
-
-
-
-2012-01-14T19:38:24.952839Z
-230113
-ume
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
-
-libkadm5srv
-dir
-
-libhdb
-dir
-
-Makefile.inc
-file
-
-
-
-
-2013-02-07T05:44:29.545978Z
-6891a12fd6252d340724bbfcad4d5731
-2008-05-07T13:53:12.000000Z
-178828
-dfr
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-58
-
-libgssapi_spnego
-dir
-
-libasn1
-dir
-
-libkrb5
-dir
-
-libkafs5
-dir
-
-libgssapi_krb5
-dir
-
-libhx509
-dir
-
-libheimntlm
-dir
-
-libsl
-dir
-
-libroken
-dir
-
-libvers
-dir
-
-libgssapi_ntlm
-dir
-
-libkadm5clnt
-dir
-
-Makefile
-file
-
-
-
-
-2013-02-07T05:44:29.545978Z
-b8b07f805f1c9d8c8b1294d538f81117
-2008-05-07T13:53:12.000000Z
-178828
-dfr
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-202
-

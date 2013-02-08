@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 364
-/head/usr.sbin/chkgrp:226702,226785,227006,227524,227526,228761,229067,229997,230127,230587,233713,234313,234315,234322,234351,234870,235726,240891,243077,243084
-/projects/head_mfi/usr.sbin/chkgrp:233621
-/projects/largeSMP/usr.sbin/chkgrp:221273-222812,222815-223757
-/projects/quota64/usr.sbin/chkgrp:184125-207707
-/vendor/resolver/dist/usr.sbin/chkgrp:1540-186085
-END

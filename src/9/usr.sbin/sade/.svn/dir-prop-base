@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 209
-/head/usr.sbin/sade:226702,227006,228682-228683,229067
-/projects/largeSMP/usr.sbin/sade:221273-222812,222815-223757
-/projects/quota64/usr.sbin/sade:184125-207707
-/vendor/resolver/dist/usr.sbin/sade:1540-186085
-END

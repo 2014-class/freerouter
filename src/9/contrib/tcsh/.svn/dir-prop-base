@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 223
-/head/contrib/tcsh:2-59243,227006,231990
-/projects/largeSMP/contrib/tcsh:221273-222812,222815-223757
-/projects/quota64/contrib/tcsh:184125-207707
-/vendor/resolver/dist/contrib/tcsh:1540-186085
-/vendor/tcsh/dist:59244-231922
-END

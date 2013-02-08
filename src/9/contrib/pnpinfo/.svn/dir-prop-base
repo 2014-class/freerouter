@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 210
-/head/contrib/pnpinfo:226702,227006,228672,229067
-/projects/largeSMP/contrib/pnpinfo:221273-222812,222815-223757
-/projects/quota64/contrib/pnpinfo:184125-207707
-/vendor/resolver/dist/contrib/pnpinfo:1540-186085
-END

@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 258
-/head/sbin/mount_nullfs:2-3,227006,240892-240893,245005
-/projects/largeSMP/sbin/mount_nullfs:221273-222812,222815-223757
-/projects/quota64/sbin/mount_nullfs:184125-207707
-/user/piso/sbin/mount_nullfs:186725
-/vendor/resolver/dist/sbin/mount_nullfs:1540-186085
-END

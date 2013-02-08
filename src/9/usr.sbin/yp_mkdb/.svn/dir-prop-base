@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 214
-/head/usr.sbin/yp_mkdb:226702,227006,228722,229067
-/projects/largeSMP/usr.sbin/yp_mkdb:221273-222812,222815-223757
-/projects/quota64/usr.sbin/yp_mkdb:184125-207707
-/vendor/resolver/dist/usr.sbin/yp_mkdb:1540-186085
-END

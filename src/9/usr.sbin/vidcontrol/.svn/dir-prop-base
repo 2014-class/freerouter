@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 370
-/head/usr.sbin/vidcontrol:226702,226785,227006,227524,227526,228761,229067,229997,230127,230587,233713,234313,234315,234322,234351,234870,235726,237777
-/projects/head_mfi/usr.sbin/vidcontrol:233621
-/projects/largeSMP/usr.sbin/vidcontrol:221273-222812,222815-223757
-/projects/quota64/usr.sbin/vidcontrol:184125-207707
-/vendor/resolver/dist/usr.sbin/vidcontrol:1540-186085
-END

@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 210
-/head/gnu/lib:227006,227215
-/projects/binutils-2.17/gnu/lib:213992-218817
-/projects/largeSMP/gnu/lib:221273-222812,222815-223757
-/projects/quota64/gnu/lib:184125-207707
-/vendor/resolver/dist/gnu/lib:1540-186085
-END

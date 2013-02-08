@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 290
-/head/tools/regression/doat:225778,226523,227006,227538,227636,228177,228259,228409,229000-229001,230211-230212
-/projects/largeSMP/tools/regression/doat:221273-222812,222815-223757
-/projects/quota64/tools/regression/doat:184125-207707
-/vendor/resolver/dist/tools/regression/doat:1540-186085
-END

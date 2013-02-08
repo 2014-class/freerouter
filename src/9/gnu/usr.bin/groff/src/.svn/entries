@@ -1,80 +1,0 @@
-10
-
-dir
-246451
-svn://svn.freebsd.org/base/stable/9/gnu/usr.bin/groff/src
-svn://svn.freebsd.org/base
-
-
-
-2005-10-20T11:10:43.000000Z
-151505
-ru
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
-
-utils
-dir
-
-devices
-dir
-
-include
-dir
-
-libs
-dir
-
-preproc
-dir
-
-roff
-dir
-
-Makefile
-file
-
-
-
-
-2013-02-07T05:45:28.313964Z
-b9155d22743b33adb3a36f9dc388d1bc
-2001-04-17T12:37:18.000000Z
-75592
-ru
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-80
-

@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 228
-/head/sbin/dumpfs:2-3,227006,228898,241842,242379
-/projects/largeSMP/sbin/dumpfs:221273-222812,222815-223757
-/projects/quota64/sbin/dumpfs:184125-207707
-/user/piso/sbin/dumpfs:186725
-/vendor/resolver/dist/sbin/dumpfs:1540-186085
-END

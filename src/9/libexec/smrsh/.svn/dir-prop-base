@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 216
-/head/libexec/smrsh:226702,227006,228588,228590,229067,232263
-/projects/largeSMP/libexec/smrsh:221273-222812,222815-223757
-/projects/quota64/libexec/smrsh:184125-207707
-/vendor/resolver/dist/libexec/smrsh:1540-186085
-END

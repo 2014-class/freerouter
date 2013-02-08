@@ -1,9 +1,0 @@
-K 14
-fbsd:notbinary
-V 19
-errata/article.sgml
-K 12
-svn:keywords
-V 10
-FreeBSD=%H
-END

@@ -1,7 +1,0 @@
-K 13
-svn:mergeinfo
-V 126
-/head/contrib/bzip2:227006,228624
-/projects/largeSMP/contrib/bzip2:221273-222812,222815-223757
-/vendor/bzip2/dist:78557-213356
-END

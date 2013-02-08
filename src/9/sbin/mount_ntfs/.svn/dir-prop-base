@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 234
-/head/sbin/mount_ntfs:2-3,227006,230642
-/projects/largeSMP/sbin/mount_ntfs:221273-222812,222815-223757
-/projects/quota64/sbin/mount_ntfs:184125-207707
-/user/piso/sbin/mount_ntfs:186725
-/vendor/resolver/dist/sbin/mount_ntfs:1540-186085
-END

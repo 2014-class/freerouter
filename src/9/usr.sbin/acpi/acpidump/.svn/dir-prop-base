@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 371
-/head/usr.sbin/acpi/acpidump:226702,226785,227006,228761,229067,229997,230127,230587,233713,234313,234315,234322,234351,234870,235726,235948
-/projects/head_mfi/usr.sbin/acpi/acpidump:233621
-/projects/largeSMP/usr.sbin/acpi/acpidump:221273-222812,222815-223757
-/projects/quota64/usr.sbin/acpi/acpidump:184125-207707
-/vendor/resolver/dist/usr.sbin/acpi/acpidump:1540-186085
-END

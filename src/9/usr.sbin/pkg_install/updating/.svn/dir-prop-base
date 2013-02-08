@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 280
-/head/usr.sbin/pkg_install/updating:226702,227006,228670,229067,233648,235211
-/projects/largeSMP/usr.sbin/pkg_install/updating:221273-222812,222815-223757
-/projects/quota64/usr.sbin/pkg_install/updating:184125-207707
-/vendor/resolver/dist/usr.sbin/pkg_install/updating:1540-186085
-END

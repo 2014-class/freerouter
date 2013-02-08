@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 209
-/head/sbin/mdmfs:2-3,227006,233648
-/projects/largeSMP/sbin/mdmfs:221273-222812,222815-223757
-/projects/quota64/sbin/mdmfs:184125-207707
-/user/piso/sbin/mdmfs:186725
-/vendor/resolver/dist/sbin/mdmfs:1540-186085
-END

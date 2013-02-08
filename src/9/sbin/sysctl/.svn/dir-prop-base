@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 228
-/head/sbin/sysctl:2-3,227006,228181,234134,244104
-/projects/largeSMP/sbin/sysctl:221273-222812,222815-223757
-/projects/quota64/sbin/sysctl:184125-207707
-/user/piso/sbin/sysctl:186725
-/vendor/resolver/dist/sbin/sysctl:1540-186085
-END

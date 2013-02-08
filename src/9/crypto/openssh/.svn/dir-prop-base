@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 212
-/head/crypto/openssh:225852,227006,236139,237568
-/projects/largeSMP/crypto/openssh:221273-222812,222815-223757
-/projects/quota64/crypto/openssh:184125-207707
-/vendor-crypto/openssh/dist:57430-221486,225835-237567
-END

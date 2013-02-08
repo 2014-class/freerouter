@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 365
-/head/release/picobsd/tinyware/passwd:226170,227006,227275,227283,227466,227480,227516,227666,227742,229977,230127,230332,231118,231943,232060,232355,236963
-/projects/largeSMP/release/picobsd/tinyware/passwd:221273-222812,222815-223757
-/projects/quota64/release/picobsd/tinyware/passwd:184125-207707
-/vendor/resolver/dist/release/picobsd/tinyware/passwd:1540-186085
-END

@@ -1,150 +1,0 @@
-10
-
-dir
-246451
-svn://svn.freebsd.org/base/stable/9/tools/regression/usr.bin
-svn://svn.freebsd.org/base
-
-
-
-2013-02-03T01:22:28.720681Z
-246277
-eadler
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
-
-lastcomm
-dir
-
-m4
-dir
-
-xargs
-dir
-
-apply
-dir
-
-tr
-dir
-
-env
-dir
-
-regress.m4
-file
-
-
-
-
-2013-02-07T05:43:54.895109Z
-3261a60f1ec1fdb858f2e746576f0ecc
-2004-11-11T19:47:55.000000Z
-137587
-nik
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2104
-
-comm
-dir
-
-jot
-dir
-
-uudecode
-dir
-
-join
-dir
-
-printf
-dir
-
-file2c
-dir
-
-uuencode
-dir
-
-calendar
-dir
-
-sed
-dir
-
-pkill
-dir
-
-make
-dir
-
-ncal
-dir
-
-Makefile
-file
-
-
-
-
-2013-02-07T05:43:54.894109Z
-1366f0741f99983d251101ba918e3c89
-2010-03-14T10:24:03.416572Z
-205147
-edwin
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-181
-

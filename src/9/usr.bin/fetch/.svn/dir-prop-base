@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 258
-/head/usr.bin/fetch:225800,225805,225815,225982,227006,228857,230307,232274,235211,236110,240496,244037
-/projects/largeSMP/usr.bin/fetch:221273-222812,222815-223757
-/projects/quota64/usr.bin/fetch:184125-207707
-/vendor/resolver/dist/usr.bin/fetch:1540-186085
-END

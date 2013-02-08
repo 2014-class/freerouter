@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 361
-/head/usr.sbin/traceroute6:226702,226785,227006,228761,229067,229997,230127,230587,233713,234313,234315,234322,234351,234870,235138,235726
-/projects/head_mfi/usr.sbin/traceroute6:233621
-/projects/largeSMP/usr.sbin/traceroute6:221273-222812,222815-223757
-/projects/quota64/usr.sbin/traceroute6:184125-207707
-/vendor/resolver/dist/usr.sbin/traceroute6:1540-186085
-END

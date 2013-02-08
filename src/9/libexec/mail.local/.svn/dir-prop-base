@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 236
-/head/libexec/mail.local:226702,227006,228585,228590,229067,232263
-/projects/largeSMP/libexec/mail.local:221273-222812,222815-223757
-/projects/quota64/libexec/mail.local:184125-207707
-/vendor/resolver/dist/libexec/mail.local:1540-186085
-END

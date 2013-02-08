@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 354
-/head/share/syscons:226702,226785,227006,228761,229067,229997,230127,230587,231544,233713,234313,234782,235122,235251,236338-236339,236346-236347,236365,236977
-/projects/head_mfi/share/syscons:233621
-/projects/largeSMP/share/syscons:221273-222812,222815-223757
-/projects/quota64/share/syscons:184125-207707
-/vendor/resolver/dist/share/syscons:1540-186085
-END

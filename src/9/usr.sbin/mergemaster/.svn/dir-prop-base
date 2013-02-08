@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 244
-/head/usr.sbin/mergemaster:227006,227013,228122,241218,243891-243892
-/projects/largeSMP/usr.sbin/mergemaster:221273-222812,222815-223757
-/projects/quota64/usr.sbin/mergemaster:184125-207707
-/vendor/resolver/dist/usr.sbin/mergemaster:1540-186085
-END

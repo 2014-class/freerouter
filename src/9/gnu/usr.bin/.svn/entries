@@ -1,147 +1,0 @@
-10
-
-dir
-246451
-svn://svn.freebsd.org/base/stable/9/gnu/usr.bin
-svn://svn.freebsd.org/base
-
-
-
-2012-10-30T03:21:23.702743Z
-242335
-eadler
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
-
-cc
-dir
-
-Makefile.inc
-file
-
-
-
-
-2013-02-07T05:45:28.341012Z
-be4e177550b509d5e9c84ff565464046
-2002-09-25T09:55:20.000000Z
-103959
-markm
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-59
-
-rcs
-dir
-
-sort
-dir
-
-binutils
-dir
-
-sdiff
-dir
-
-diff3
-dir
-
-cvs
-dir
-
-gdb
-dir
-
-grep
-dir
-
-dialog
-dir
-
-patch
-dir
-
-gperf
-dir
-
-groff
-dir
-
-diff
-dir
-
-send-pr
-dir
-
-dtc
-dir
-
-texinfo
-dir
-
-Makefile
-file
-
-
-
-
-2013-02-07T05:45:28.340089Z
-f83e067fa32c3a0c829dd8149736e951
-2011-06-08T21:29:33.442202Z
-222878
-obrien
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-646
-

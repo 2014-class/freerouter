@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 246
-/head/contrib/openresolv:227006,239477
-/projects/largeSMP/contrib/openresolv:221273-222812,222815-223757
-/projects/quota64/contrib/openresolv:184125-207707
-/vendor/openresolv/dist:219736-225504
-/vendor/resolver/dist/contrib/openresolv:1540-186085
-END

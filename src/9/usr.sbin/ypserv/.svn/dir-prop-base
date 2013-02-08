@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 245
-/head/usr.sbin/ypserv:226702,226725,227006,228761,228790-228791,229067,230279,231118
-/projects/largeSMP/usr.sbin/ypserv:221273-222812,222815-223757
-/projects/quota64/usr.sbin/ypserv:184125-207707
-/vendor/resolver/dist/usr.sbin/ypserv:1540-186085
-END

@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 284
-/head/bin/ln:226702,226785,227006,228761,229067,229997,230127,230587,233713,234313,234782,235122,235297,235316,244791
-/projects/head_mfi/bin/ln:233621
-/projects/largeSMP/bin/ln:221273-222812,222815-223757
-/projects/quota64/bin/ln:184125-207707
-/vendor/resolver/dist/bin/ln:1540-186085
-END

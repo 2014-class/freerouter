@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 259
-/head/contrib/tcpdump:2-17680,227006,228713,235530,241235,245952
-/projects/largeSMP/contrib/tcpdump:221273-222812,222815-223757
-/projects/quota64/contrib/tcpdump:184125-207707
-/vendor/resolver/dist/contrib/tcpdump:1540-186085
-/vendor/tcpdump/dist:17681-241231
-END

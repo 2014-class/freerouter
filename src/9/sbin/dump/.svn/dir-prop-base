@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 204
-/head/sbin/dump:2-3,226520,227006
-/projects/largeSMP/sbin/dump:221273-222812,222815-223757
-/projects/quota64/sbin/dump:184125-207707
-/user/piso/sbin/dump:186725
-/vendor/resolver/dist/sbin/dump:1540-186085
-END

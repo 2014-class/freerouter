@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 245
-/head/usr.sbin/rtprio:225736-235576,241061
-/projects/head_mfi/usr.sbin/rtprio:233621
-/projects/largeSMP/usr.sbin/rtprio:221273-222812,222815-223757
-/projects/quota64/usr.sbin/rtprio:184125-207707
-/vendor/resolver/dist/usr.sbin/rtprio:1540-186085
-END

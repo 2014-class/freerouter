@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 247
-/head/lib/libcrypt:226702,226785,227006,227755,228531,228630,228761,229067,230127,234132,236967
-/projects/largeSMP/lib/libcrypt:221273-222812,222815-223757
-/projects/quota64/lib/libcrypt:184125-207707
-/vendor/resolver/dist/lib/libcrypt:1540-186085
-END

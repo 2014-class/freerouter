@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 228
-/head/contrib/groff:2-18099,225736-238804
-/projects/largeSMP/contrib/groff:221273-222812,222815-223757
-/projects/quota64/contrib/groff:184125-207707
-/vendor/groff/dist:18100-238796
-/vendor/resolver/dist/contrib/groff:1540-186085
-END

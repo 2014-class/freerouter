@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 216
-/head/usr.bin/xlint:226702,227006,227123,228761,228857,229067
-/projects/largeSMP/usr.bin/xlint:221273-222812,222815-223757
-/projects/quota64/usr.bin/xlint:184125-207707
-/vendor/resolver/dist/usr.bin/xlint:1540-186085
-END

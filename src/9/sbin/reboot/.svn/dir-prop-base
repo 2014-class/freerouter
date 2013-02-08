@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 235
-/head/sbin/reboot:2-3,227006,230812,231129,240892-240893
-/projects/largeSMP/sbin/reboot:221273-222812,222815-223757
-/projects/quota64/sbin/reboot:184125-207707
-/user/piso/sbin/reboot:186725
-/vendor/resolver/dist/sbin/reboot:1540-186085
-END

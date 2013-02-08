@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 288
-/head/gnu/lib/libstdc++:227006,227215,233749,237098,239695,241960
-/projects/binutils-2.17/gnu/lib/libstdc++:213992-218817
-/projects/largeSMP/gnu/lib/libstdc++:221273-222812,222815-223757
-/projects/quota64/gnu/lib/libstdc++:184125-207707
-/vendor/resolver/dist/gnu/lib/libstdc++:1540-186085
-END

@@ -1,230 +1,0 @@
-10
-
-dir
-246451
-svn://svn.freebsd.org/base/stable/9/sys
-svn://svn.freebsd.org/base
-
-
-
-2013-02-06T22:39:45.414086Z
-246442
-mav
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
-
-powerpc
-dir
-
-arm
-dir
-
-sparc64
-dir
-
-rpc
-dir
-
-conf
-dir
-
-nfsclient
-dir
-
-nfs
-dir
-
-nlm
-dir
-
-gnu
-dir
-
-ufs
-dir
-
-xdr
-dir
-
-kern
-dir
-
-cam
-dir
-
-tools
-dir
-
-opencrypto
-dir
-
-netatalk
-dir
-
-ia64
-dir
-
-boot
-dir
-
-teken
-dir
-
-netnatm
-dir
-
-netinet
-dir
-
-netipx
-dir
-
-fs
-dir
-
-mips
-dir
-
-modules
-dir
-
-netgraph
-dir
-
-pci
-dir
-
-isa
-dir
-
-ofed
-dir
-
-nfsserver
-dir
-
-Makefile
-file
-
-
-
-
-2013-02-07T05:45:15.138104Z
-b9ab227a6621889138025489ffc36f19
-2012-05-21T21:29:59.967929Z
-235743
-jhb
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1834
-
-dev
-dir
-
-crypto
-dir
-
-bsm
-dir
-
-net80211
-dir
-
-vm
-dir
-
-compat
-dir
-
-pc98
-dir
-
-x86
-dir
-
-net
-dir
-
-libkern
-dir
-
-geom
-dir
-
-netncp
-dir
-
-netsmb
-dir
-
-ddb
-dir
-
-i386
-dir
-
-xen
-dir
-
-gdb
-dir
-
-netinet6
-dir
-
-contrib
-dir
-
-netpfil
-dir
-
-kgssapi
-dir
-
-cddl
-dir
-
-security
-dir
-
-netipsec
-dir
-
-amd64
-dir
-
-sys
-dir
-

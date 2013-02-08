@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 294
-/head/usr.sbin/daemon:226702,226785,227006,228761,229067,229667,229997,230127,230541,230587,230869,231909-231912,236550-236551,244986
-/projects/largeSMP/usr.sbin/daemon:221273-222812,222815-223757
-/projects/quota64/usr.sbin/daemon:184125-207707
-/vendor/resolver/dist/usr.sbin/daemon:1540-186085
-END

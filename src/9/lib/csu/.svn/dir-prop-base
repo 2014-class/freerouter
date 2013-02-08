@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 234
-/head/lib/csu:226702,226785,227006,227755,228531,228630,228761,229067,230127,232830,234502,245133
-/projects/largeSMP/lib/csu:221273-222812,222815-223757
-/projects/quota64/lib/csu:184125-207707
-/vendor/resolver/dist/lib/csu:1540-186085
-END

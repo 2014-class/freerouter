@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 209
-/head/share/doc/smm:225880,226436,227006,227458,239739
-/projects/largeSMP/share/doc/smm:221273-222812,222815-223757
-/projects/quota64/share/doc/smm:184125-207707
-/vendor/resolver/dist/share/doc/smm:1540-186085
-END

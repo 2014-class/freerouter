@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 258
-/head/sbin/fsck_msdosfs:2-3,227006,240892-240893,242511
-/projects/largeSMP/sbin/fsck_msdosfs:221273-222812,222815-223757
-/projects/quota64/sbin/fsck_msdosfs:184125-207707
-/user/piso/sbin/fsck_msdosfs:186725
-/vendor/resolver/dist/sbin/fsck_msdosfs:1540-186085
-END

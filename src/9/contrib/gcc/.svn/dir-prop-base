@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 306
-/head/contrib/gcc:226430,226702,227006,227391,228756,233923,235623,236137,236329,237099,237406,238472,244776,244792,245272,245952
-/projects/largeSMP/contrib/gcc:221273-222812,222815-223757
-/projects/quota64/contrib/gcc:184125-207707
-/vendor/gcc/dist/gcc:219451
-/vendor/resolver/dist/contrib/gcc:1540-186085
-END

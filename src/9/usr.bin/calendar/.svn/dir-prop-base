@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 270
-/head/usr.bin/calendar:226909,226927,227006,228857,233648,235211
-/projects/largeSMP/usr.bin/calendar:221273-222812,222815-223757
-/projects/quota64/usr.bin/calendar:184125-207707
-/user/edwin/calendar:211781,211834-211835
-/vendor/resolver/dist/usr.bin/calendar:1540-186085
-END

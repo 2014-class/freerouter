@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 248
-/head/usr.bin/systat:226396,226424,226702,227006,228761,228857,229067,230127,230555,240605
-/projects/largeSMP/usr.bin/systat:221273-222812,222815-223757
-/projects/quota64/usr.bin/systat:184125-207707
-/vendor/resolver/dist/usr.bin/systat:1540-186085
-END

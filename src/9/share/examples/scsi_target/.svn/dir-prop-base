@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 345
-/head/share/examples/scsi_target:225757,225764,225950,227006,227844,228462,229831,229997,233429,233435,233437,234077,234133,234135,234159,234823,237601
-/projects/largeSMP/share/examples/scsi_target:221273-222812,222815-223757
-/projects/quota64/share/examples/scsi_target:184125-207707
-/vendor/resolver/dist/share/examples/scsi_target:1540-186085
-END

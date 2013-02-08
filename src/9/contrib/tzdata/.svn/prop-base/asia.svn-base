@@ -1,9 +1,0 @@
-K 15
-fbsd:nokeywords
-V 1
-y
-K 13
-svn:eol-style
-V 6
-native
-END

@@ -1,101 +1,0 @@
-10
-
-dir
-246451
-svn://svn.freebsd.org/base/stable/9/share/doc/smm
-svn://svn.freebsd.org/base
-
-
-
-2012-10-01T19:13:47.358351Z
-241111
-jhb
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
-
-01.setup
-dir
-
-08.sendmailop
-dir
-
-11.timedop
-dir
-
-title
-dir
-
-12.timed
-dir
-
-07.lpd
-dir
-
-02.config
-dir
-
-03.fsck
-dir
-
-05.fastfs
-dir
-
-06.nfs
-dir
-
-18.net
-dir
-
-contents
-dir
-
-Makefile
-file
-
-
-
-
-2013-02-07T05:44:30.423098Z
-1e92ffa42cff6d69553af4263478f23d
-2012-10-01T19:13:47.358351Z
-241111
-jhb
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-585
-
-04.quotas
-dir
-

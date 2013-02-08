@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 253
-/head/sbin/newfs_msdos:2-3,227006,227454,228740,245648
-/projects/largeSMP/sbin/newfs_msdos:221273-222812,222815-223757
-/projects/quota64/sbin/newfs_msdos:184125-207707
-/user/piso/sbin/newfs_msdos:186725
-/vendor/resolver/dist/sbin/newfs_msdos:1540-186085
-END

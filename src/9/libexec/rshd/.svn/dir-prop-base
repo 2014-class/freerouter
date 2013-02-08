@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 198
-/head/libexec/rshd:226702,226937,227006,236892
-/projects/largeSMP/libexec/rshd:221273-222812,222815-223757
-/projects/quota64/libexec/rshd:184125-207707
-/vendor/resolver/dist/libexec/rshd:1540-186085
-END

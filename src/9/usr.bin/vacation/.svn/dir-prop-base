@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 235
-/head/usr.bin/vacation:226702,227006,228652,228708,228857,229067,232263
-/projects/largeSMP/usr.bin/vacation:221273-222812,222815-223757
-/projects/quota64/usr.bin/vacation:184125-207707
-/vendor/resolver/dist/usr.bin/vacation:1540-186085
-END

@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 220
-/head/usr.bin/vmstat:226702,227006,228654,228857,229067,233298
-/projects/largeSMP/usr.bin/vmstat:221273-222812,222815-223757
-/projects/quota64/usr.bin/vmstat:184125-207707
-/vendor/resolver/dist/usr.bin/vmstat:1540-186085
-END

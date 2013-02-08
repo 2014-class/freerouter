@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 273
-/head/contrib/libstdc++:227006,228328,228780,233193,236829,241957,241959
-/projects/largeSMP/contrib/libstdc++:221273-222812,222815-223757
-/projects/quota64/contrib/libstdc++:184125-207707
-/vendor/gcc/dist/libstdc++:219451
-/vendor/resolver/dist/contrib/libstdc++:1540-186085
-END

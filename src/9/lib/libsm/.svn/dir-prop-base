@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 200
-/head/lib/libsm:226702,227006,228558,228590,229067,232263
-/projects/largeSMP/lib/libsm:221273-222812,222815-223757
-/projects/quota64/lib/libsm:184125-207707
-/vendor/resolver/dist/lib/libsm:1540-186085
-END

@@ -1,994 +1,0 @@
-10
-
-dir
-246451
-svn://svn.freebsd.org/base/stable/9/usr.sbin
-svn://svn.freebsd.org/base
-
-
-
-2013-02-07T04:49:28.591107Z
-246451
-bjk
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
-
-usbdump
-dir
-
-tcpdchk
-dir
-
-ckdist
-dir
-
-nvram
-dir
-
-praliases
-dir
-
-vidcontrol
-dir
-
-mptable
-dir
-
-quotaon
-dir
-
-nscd
-dir
-
-wpa
-dir
-
-mount_smbfs
-dir
-
-faithd
-dir
-
-dnssec-keygen
-dir
-
-amd
-dir
-
-rndc-confgen
-dir
-
-ypset
-dir
-
-bluetooth
-dir
-
-mountd
-dir
-
-procctl
-dir
-
-dconschat
-dir
-
-tcpdmatch
-dir
-
-dnssec-revoke
-dir
-
-pmcannotate
-dir
-
-dnssec-signzone
-dir
-
-ndiscvt
-dir
-
-mount_portalfs
-dir
-
-isc-hmac-fixup
-dir
-
-btxld
-dir
-
-nfsdumpstate
-dir
-
-spkrtest
-dir
-
-usbconfig
-dir
-
-Makefile.ia64
-file
-
-
-
-
-2013-02-07T05:44:38.899078Z
-f4c7435c6a90e73efe1393a44df5b323
-2010-09-13T02:21:07.099262Z
-212525
-imp
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-135
-
-uhsoctl
-dir
-
-crunch
-dir
-
-mailwrapper
-dir
-
-authpf
-dir
-
-nfsuserd
-dir
-
-zzz
-dir
-
-auditreduce
-dir
-
-kbdmap
-dir
-
-bsdinstall
-dir
-
-powerd
-dir
-
-service
-dir
-
-cron
-dir
-
-sa
-dir
-
-boot98cfg
-dir
-
-makefs
-dir
-
-rip6query
-dir
-
-rtsold
-dir
-
-mtree
-dir
-
-tcpdump
-dir
-
-sicontrol
-dir
-
-chown
-dir
-
-rpc.lockd
-dir
-
-dnssec-dsfromkey
-dir
-
-ndp
-dir
-
-clear_locks
-dir
-
-rtadvctl
-dir
-
-named
-dir
-
-arpaname
-dir
-
-vipw
-dir
-
-ugidfw
-dir
-
-fdread
-dir
-
-yp_mkdb
-dir
-
-Makefile.inc
-file
-
-
-
-
-2013-02-07T05:44:38.900050Z
-0ba8f6f87393fc61885be48f3decd40a
-2010-01-02T11:07:44.030415Z
-201390
-ed
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-85
-
-quot
-dir
-
-jls
-dir
-
-smbmsg
-dir
-
-dnssec-keyfromlabel
-dir
-
-freebsd-update
-dir
-
-Makefile.powerpc
-file
-
-
-
-
-2013-02-07T05:44:38.900050Z
-328615b952d18c2e56a5d8f736d671ba
-2010-09-13T02:21:07.099262Z
-212525
-imp
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-66
-
-lpr
-dir
-
-spray
-dir
-
-ppp
-dir
-
-rpc.umntall
-dir
-
-nfscbd
-dir
-
-ntp
-dir
-
-rpc.yppasswdd
-dir
-
-uathload
-dir
-
-rpc.statd
-dir
-
-timed
-dir
-
-traceroute6
-dir
-
-nologin
-dir
-
-watch
-dir
-
-pkg_install
-dir
-
-pnpinfo
-dir
-
-ipfwpcap
-dir
-
-flowctl
-dir
-
-kgmon
-dir
-
-rrenumd
-dir
-
-traceroute
-dir
-
-tzsetup
-dir
-
-pmccontrol
-dir
-
-Makefile.mips
-file
-
-
-
-
-2013-02-07T05:44:38.900050Z
-d1859b4394ff75d4852b0a447f458f0b
-2011-01-27T14:16:12.187496Z
-217942
-jchandra
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-175
-
-nghook
-dir
-
-rndc
-dir
-
-adduser
-dir
-
-nmtree
-dir
-
-pstat
-dir
-
-named-checkzone
-dir
-
-moused
-dir
-
-gssd
-dir
-
-mlxcontrol
-dir
-
-rmt
-dir
-
-nfsrevoke
-dir
-
-daemon
-dir
-
-dumpcis
-dir
-
-genrandom
-dir
-
-sade
-dir
-
-i2c
-dir
-
-apm
-dir
-
-fwcontrol
-dir
-
-chkgrp
-dir
-
-utxrm
-dir
-
-yppoll
-dir
-
-rtprio
-dir
-
-rpc.ypupdated
-dir
-
-ctm
-dir
-
-editmap
-dir
-
-syslogd
-dir
-
-fifolog
-dir
-
-eeprom
-dir
-
-cpucontrol
-dir
-
-keyserv
-dir
-
-ip6addrctl
-dir
-
-periodic
-dir
-
-jexec
-dir
-
-Makefile.sparc64
-file
-
-
-
-
-2013-02-07T05:44:38.899078Z
-26043c8ba5683da739a885c07062465c
-2010-09-13T02:21:07.099262Z
-212525
-imp
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-117
-
-mount_nwfs
-dir
-
-ancontrol
-dir
-
-repquota
-dir
-
-kbdcontrol
-dir
-
-lmcconfig
-dir
-
-gpioctl
-dir
-
-inetd
-dir
-
-watchdogd
-dir
-
-ctladm
-dir
-
-sysinstall
-dir
-
-ddns-confgen
-dir
-
-diskinfo
-dir
-
-audit
-dir
-
-accton
-dir
-
-named-journalprint
-dir
-
-ifmcstat
-dir
-
-Makefile
-file
-
-
-
-
-2013-02-07T05:44:38.899078Z
-bd016cbaefbad3c3d5e5d52d9cc0776a
-2013-02-02T23:01:54.174687Z
-246264
-eadler
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4619
-
-manctl
-dir
-
-digictl
-dir
-
-getpmac
-dir
-
-rpcbind
-dir
-
-pkg
-dir
-
-apmd
-dir
-
-rwhod
-dir
-
-mixer
-dir
-
-pwd_mkdb
-dir
-
-route6d
-dir
-
-bootparamd
-dir
-
-devinfo
-dir
-
-extattr
-dir
-
-sendmail
-dir
-
-setpmac
-dir
-
-extattrctl
-dir
-
-auditdistd
-dir
-
-mailstats
-dir
-
-config
-dir
-
-named-checkconf
-dir
-
-Makefile.i386
-file
-
-
-
-
-2013-02-07T05:44:38.901111Z
-8842c2495780cfe87967e03b32463f5c
-2010-09-13T02:21:07.099262Z
-212525
-imp
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-700
-
-portsnap
-dir
-
-wlandebug
-dir
-
-wlconfig
-dir
-
-praudit
-dir
-
-tcpdrop
-dir
-
-mergemaster
-dir
-
-crashinfo
-dir
-
-acpi
-dir
-
-snapinfo
-dir
-
-memcontrol
-dir
-
-jail
-dir
-
-arp
-dir
-
-IPXrouted
-dir
-
-bsnmpd
-dir
-
-dnssec-settime
-dir
-
-cdcontrol
-dir
-
-Makefile.amd64
-file
-
-
-
-
-2013-02-07T05:44:38.897974Z
-ebd26d1f74dfcd9933778767bc496778
-2010-12-09T11:37:40.597798Z
-216322
-brucec
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-595
-
-mld6query
-dir
-
-trpt
-dir
-
-fdcontrol
-dir
-
-nfsd
-dir
-
-Makefile.arm
-file
-
-
-
-
-2013-02-07T05:44:38.900050Z
-dc8fe043c9f0d9f038073ae629878636
-2010-09-13T02:21:07.099262Z
-212525
-imp
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-76
-
-mtest
-dir
-
-mptutil
-dir
-
-chroot
-dir
-
-kldxref
-dir
-
-rpc.ypxfrd
-dir
-
-lptcontrol
-dir
-
-edquota
-dir
-
-pppctl
-dir
-
-getfmac
-dir
-
-ftp-proxy
-dir
-
-asf
-dir
-
-auditd
-dir
-
-pmcstat
-dir
-
-burncd
-dir
-
-nsec3hash
-dir
-
-services_mkdb
-dir
-
-pciconf
-dir
-
-ofwdump
-dir
-
-setfmac
-dir
-
-gstat
-dir
-
-ac
-dir
-
-kgzip
-dir
-
-rtadvd
-dir
-
-ypbind
-dir
-
-zic
-dir
-
-pw
-dir
-
-wake
-dir
-
-yppush
-dir
-
-ypserv
-dir
-
-newsyslog
-dir
-
-lastlogin
-dir
-
-fdformat
-dir
-
-iostat
-dir
-
-boot0cfg
-dir
-
-fdwrite
-dir
-
-pc-sysinstall
-dir
-
-ngctl
-dir
-
-rarpd
-dir
-
-mfiutil
-dir
-
-makemap
-dir
-
-setfib
-dir
-

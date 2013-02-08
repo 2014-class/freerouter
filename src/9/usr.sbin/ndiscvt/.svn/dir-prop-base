@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 262
-/head/usr.sbin/ndiscvt:227006,228665,243074
-/projects/binutils-2.17/usr.sbin/ndiscvt:213992-218818
-/projects/largeSMP/usr.sbin/ndiscvt:221273-222812,222815-223757
-/projects/quota64/usr.sbin/ndiscvt:184125-207707
-/vendor/resolver/dist/usr.sbin/ndiscvt:1540-186085
-END

@@ -1,6 +1,0 @@
-K 13
-svn:mergeinfo
-V 126
-/head/usr.sbin/rtadvctl:227006,235873
-/user/hrs/ipv6/usr.sbin/rtadvctl:224015,224052-224055,224087,224128,224210,224305,224619
-END

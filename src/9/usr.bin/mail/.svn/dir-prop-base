@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 212
-/head/usr.bin/mail:226702,227006,228647,228857,229067,236286
-/projects/largeSMP/usr.bin/mail:221273-222812,222815-223757
-/projects/quota64/usr.bin/mail:184125-207707
-/vendor/resolver/dist/usr.bin/mail:1540-186085
-END

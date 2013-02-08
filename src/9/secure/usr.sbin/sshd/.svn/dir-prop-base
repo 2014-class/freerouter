@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 272
-/head/secure/usr.sbin/sshd:226702,226785,227006,228761,229067,229997,230127,230587,233136,233432
-/projects/largeSMP/secure/usr.sbin/sshd:221273-222812,222815-223757
-/projects/quota64/secure/usr.sbin/sshd:184125-207707
-/vendor/resolver/dist/secure/usr.sbin/sshd:1540-186085
-END

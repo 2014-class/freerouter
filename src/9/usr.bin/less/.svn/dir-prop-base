@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 191
-/head/usr.bin/less:225736-240111,243834
-/projects/largeSMP/usr.bin/less:221273-222812,222815-223757
-/projects/quota64/usr.bin/less:184125-207707
-/vendor/resolver/dist/usr.bin/less:1540-186085
-END

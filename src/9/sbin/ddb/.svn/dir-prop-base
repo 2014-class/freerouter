@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 213
-/head/sbin/ddb:2-3,227006,240892-240893,241844
-/projects/largeSMP/sbin/ddb:221273-222812,222815-223757
-/projects/quota64/sbin/ddb:184125-207707
-/user/piso/sbin/ddb:186725
-/vendor/resolver/dist/sbin/ddb:1540-186085
-END

@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 286
-/head/share/examples/cvsup:225757,225764,225950,227006,227844,228462,229831,229997,233428,240252-240253,241115
-/projects/largeSMP/share/examples/cvsup:221273-222812,222815-223757
-/projects/quota64/share/examples/cvsup:184125-207707
-/vendor/resolver/dist/share/examples/cvsup:1540-186085
-END

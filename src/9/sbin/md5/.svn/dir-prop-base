@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 220
-/head/sbin/md5:2-3,227006,227488,227491,235205,235211
-/projects/largeSMP/sbin/md5:221273-222812,222815-223757
-/projects/quota64/sbin/md5:184125-207707
-/user/piso/sbin/md5:186725
-/vendor/resolver/dist/sbin/md5:1540-186085
-END

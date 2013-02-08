@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 224
-/head/share/doc/bind9:225880,226436,227006,227458,231465,233909
-/projects/largeSMP/share/doc/bind9:221273-222812,222815-223757
-/projects/quota64/share/doc/bind9:184125-207707
-/vendor/resolver/dist/share/doc/bind9:1540-186085
-END

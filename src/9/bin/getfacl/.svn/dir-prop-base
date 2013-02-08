@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 309
-/head/bin/getfacl:226702,226785,227006,228761,229067,229997,230127,230587,233713,234313,234782,235122,235297,235316,240085
-/projects/head_mfi/bin/getfacl:233621
-/projects/largeSMP/bin/getfacl:221273-222812,222815-223757
-/projects/quota64/bin/getfacl:184125-207707
-/vendor/resolver/dist/bin/getfacl:1540-186085
-END

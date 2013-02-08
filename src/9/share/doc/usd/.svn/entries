@@ -1,107 +1,0 @@
-10
-
-dir
-246451
-svn://svn.freebsd.org/base/stable/9/share/doc/usd
-svn://svn.freebsd.org/base
-
-
-
-2010-12-04T10:11:20.065767Z
-216178
-uqs
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
-
-title
-dir
-
-18.msdiffs
-dir
-
-10.exref
-dir
-
-11.vitut
-dir
-
-contents
-dir
-
-13.viref
-dir
-
-19.memacros
-dir
-
-22.trofftut
-dir
-
-12.vi
-dir
-
-04.csh
-dir
-
-21.troff
-dir
-
-07.mail
-dir
-
-06.bc
-dir
-
-05.dc
-dir
-
-Makefile
-file
-
-
-
-
-2013-02-07T05:44:30.237983Z
-d036122d711a819943e68cfefd2ca6b1
-2010-01-22T23:19:48.663419Z
-202843
-delphij
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-314
-
-20.meref
-dir
-

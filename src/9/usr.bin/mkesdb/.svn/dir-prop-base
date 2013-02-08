@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 206
-/head/usr.bin/mkesdb:228766,228857,238197,240365
-/projects/largeSMP/usr.bin/mkesdb:221273-222812,222815-223757
-/projects/quota64/usr.bin/mkesdb:184125-207707
-/vendor/resolver/dist/usr.bin/mkesdb:1540-186085
-END

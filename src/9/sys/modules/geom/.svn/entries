@@ -1,186 +1,0 @@
-10
-
-dir
-246451
-svn://svn.freebsd.org/base/stable/9/sys/modules/geom
-svn://svn.freebsd.org/base
-
-
-
-2012-05-24T02:34:03.617324Z
-235874
-mav
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
-
-geom_bsd
-dir
-
-Makefile.inc
-file
-
-
-
-
-2013-02-07T05:45:14.474109Z
-be2fb14c43884cc7176fd0d6a01fea7d
-2003-06-15T04:27:22.000000Z
-116380
-nyan
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-40
-
-geom_raid
-dir
-
-geom_zero
-dir
-
-geom_gate
-dir
-
-geom_uzip
-dir
-
-geom_bde
-dir
-
-geom_fox
-dir
-
-geom_nop
-dir
-
-geom_uncompress
-dir
-
-geom_vinum
-dir
-
-geom_vol_ffs
-dir
-
-geom_raid3
-dir
-
-geom_shsec
-dir
-
-Makefile
-file
-
-
-
-
-2013-02-07T05:45:14.474963Z
-11ad5ca001f1b1f65a0170fcbed75ae8
-2011-03-24T21:31:32.702736Z
-219974
-mav
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-453
-
-geom_multipath
-dir
-
-geom_virstor
-dir
-
-geom_eli
-dir
-
-geom_journal
-dir
-
-geom_mirror
-dir
-
-geom_linux_lvm
-dir
-
-geom_label
-dir
-
-geom_mountver
-dir
-
-geom_mbr
-dir
-
-geom_pc98
-dir
-
-geom_sched
-dir
-
-geom_ccd
-dir
-
-geom_cache
-dir
-
-geom_sunlabel
-dir
-
-geom_stripe
-dir
-
-geom_part
-dir
-
-geom_concat
-dir
-

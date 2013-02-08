@@ -1,129 +1,0 @@
-10
-
-dir
-246451
-svn://svn.freebsd.org/base/stable/9/crypto/heimdal/appl
-svn://svn.freebsd.org/base
-
-
-
-2011-12-23T15:00:37.073299Z
-228843
-cperciva
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ccf9f872-aa2e-dd11-9fc8-001c23d0bc1f
-
-push
-dir
-
-test
-dir
-
-kf
-dir
-
-Makefile.in
-file
-
-
-
-
-2013-02-07T05:45:21.144030Z
-52dc1001ad2e592016c7f6938cd7e9e2
-2008-05-07T13:39:42.000000Z
-178826
-dfr
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-25598
-
-rcp
-dir
-
-afsutil
-dir
-
-su
-dir
-
-gssmask
-dir
-
-login
-dir
-
-ftp
-dir
-
-Makefile.am
-file
-
-
-
-
-2013-02-07T05:45:21.144030Z
-b307e9cd7d6f0d0ac3d6cfa3246e5c33
-2008-05-07T13:39:42.000000Z
-178826
-dfr
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-399
-
-telnet
-dir
-
-rsh
-dir
-

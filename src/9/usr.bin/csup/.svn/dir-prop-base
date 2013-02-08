@@ -1,9 +1,0 @@
-K 13
-svn:mergeinfo
-V 299
-/head/usr.bin/csup:2-156232,225979-225980,227006,228625-228626,228667,228857,233648,235211,241835
-/projects/csup_cvsmode/usr.bin/csup:184053-186779
-/projects/largeSMP/usr.bin/csup:221273-222812,222815-223757
-/projects/quota64/usr.bin/csup:184125-207707
-/vendor/resolver/dist/usr.bin/csup:1540-186085
-END

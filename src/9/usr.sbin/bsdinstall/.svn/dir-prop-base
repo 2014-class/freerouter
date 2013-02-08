@@ -1,8 +1,0 @@
-K 13
-svn:mergeinfo
-V 317
-/head/usr.sbin/bsdinstall:226058-226059,226083,226160-226161,226507,226666,226739,226741,227006,228194,230309,232200,233648,237253,244057,244059
-/projects/largeSMP/usr.sbin/bsdinstall:221273-222812,222815-223757
-/projects/quota64/usr.sbin/bsdinstall:184125-207707
-/vendor/resolver/dist/usr.sbin/bsdinstall:1540-186085
-END
